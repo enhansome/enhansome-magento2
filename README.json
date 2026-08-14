@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T21:17:24Z",
+            "last_commit": "2026-08-14T21:04:54Z",
             "owner": "ddev",
             "repo": "ddev",
             "stars": 3735
@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-07-30T19:33:12Z",
+            "last_commit": "2026-08-14T19:33:14Z",
             "owner": "markshust",
             "repo": "docker-magento",
             "stars": 2859
@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T18:07:37Z",
+            "last_commit": "2026-08-14T21:32:29Z",
             "owner": "netz98",
             "repo": "n98-magerun2",
             "stars": 927
@@ -569,7 +569,7 @@
             "last_commit": "2026-07-13T13:12:20Z",
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11096
+            "stars": 11095
           }
         },
         {
@@ -690,7 +690,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T09:02:58Z",
+            "last_commit": "2026-08-14T12:19:42Z",
             "owner": "Smile-SA",
             "repo": "elasticsuite",
             "stars": 803
@@ -780,7 +780,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-06T13:22:47Z",
+            "last_commit": "2026-08-14T12:39:17Z",
             "owner": "magefan",
             "repo": "module-blog",
             "stars": 270
@@ -1347,10 +1347,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T09:25:54Z",
+            "last_commit": "2026-08-14T09:28:42Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12164
+            "stars": 12165
           }
         },
         {
@@ -1412,7 +1412,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32647
+            "stars": 32649
           }
         },
         {
@@ -1439,7 +1439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:56:40.050Z",
+    "last_updated": "2026-08-14T21:34:41.873Z",
     "original_repository": "run-as-root/awesome-magento2",
     "original_repository_sha": "7d3d9867e7c0a52c572fb4148cd5fccb149c0ed6",
     "enhanced_repository": "enhansome/enhansome-magento2",
