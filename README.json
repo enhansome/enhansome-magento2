@@ -14,7 +14,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10940
+            "stars": 10942
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-04T15:14:22Z",
             "owner": "nunomaduro",
             "repo": "phpinsights",
-            "stars": 5628
+            "stars": 5629
           }
         },
         {
@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T21:04:54Z",
+            "last_commit": "2026-08-15T15:34:33Z",
             "owner": "ddev",
             "repo": "ddev",
             "stars": 3735
@@ -569,7 +569,7 @@
             "last_commit": "2026-07-13T13:12:20Z",
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11095
+            "stars": 11096
           }
         },
         {
@@ -1350,7 +1350,7 @@
             "last_commit": "2026-08-14T09:28:42Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12165
+            "stars": 12166
           }
         },
         {
@@ -1412,7 +1412,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32649
+            "stars": 32651
           }
         },
         {
@@ -1439,7 +1439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:34:41.873Z",
+    "last_updated": "2026-08-15T21:30:11.052Z",
     "original_repository": "run-as-root/awesome-magento2",
     "original_repository_sha": "7d3d9867e7c0a52c572fb4148cd5fccb149c0ed6",
     "enhanced_repository": "enhansome/enhansome-magento2",
