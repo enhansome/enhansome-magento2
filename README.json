@@ -14,7 +14,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10942
+            "stars": 10941
           }
         },
         {
@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T15:34:33Z",
+            "last_commit": "2026-08-16T06:13:10Z",
             "owner": "ddev",
             "repo": "ddev",
             "stars": 3735
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T19:33:14Z",
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2859
+            "stars": 2860
           }
         },
         {
@@ -1350,7 +1350,7 @@
             "last_commit": "2026-08-14T09:28:42Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12166
+            "stars": 12167
           }
         },
         {
@@ -1439,7 +1439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:30:11.052Z",
+    "last_updated": "2026-08-16T21:30:07.664Z",
     "original_repository": "run-as-root/awesome-magento2",
     "original_repository_sha": "7d3d9867e7c0a52c572fb4148cd5fccb149c0ed6",
     "enhanced_repository": "enhansome/enhansome-magento2",
