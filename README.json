@@ -62,7 +62,7 @@
             "last_commit": "2026-08-04T15:14:22Z",
             "owner": "nunomaduro",
             "repo": "phpinsights",
-            "stars": 5629
+            "stars": 5628
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T06:13:10Z",
+            "last_commit": "2026-08-17T17:34:35Z",
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3735
+            "stars": 3738
           }
         },
         {
@@ -269,10 +269,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T09:38:45Z",
+            "last_commit": "2026-08-17T13:28:47Z",
             "owner": "OpenForgeProject",
             "repo": "mageforge",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -364,7 +364,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T09:16:35Z",
+            "last_commit": "2026-08-17T16:55:44Z",
             "owner": "magewirephp",
             "repo": "magewire",
             "stars": 262
@@ -569,7 +569,7 @@
             "last_commit": "2026-07-13T13:12:20Z",
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11096
+            "stars": 11097
           }
         },
         {
@@ -704,7 +704,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T15:19:25Z",
+            "last_commit": "2026-08-17T15:16:40Z",
             "owner": "algolia",
             "repo": "algoliasearch-magento-2",
             "stars": 190
@@ -865,7 +865,7 @@
         {
           "node_type": "item",
           "title": "Google Tag Manager",
-          "description": "🔥 🫡 - Google Tag Manager (GTM) with Data Layer for Magento 2.",
+          "description": "🔥 - Google Tag Manager (GTM) with Data Layer for Magento 2.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -884,7 +884,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T01:29:48Z",
+            "last_commit": "2026-08-17T04:06:35Z",
             "owner": "mageplaza",
             "repo": "magento-2-seo",
             "stars": 139
@@ -941,7 +941,7 @@
         {
           "node_type": "item",
           "title": "Custom SMTP",
-          "description": "🫡 - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.",
+          "description": "Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1002,7 +1002,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2024-05-01T17:52:29Z",
+            "last_commit": "2026-08-17T08:49:45Z",
             "owner": "bitExpert",
             "repo": "magento2-force-login",
             "stars": 169
@@ -1067,7 +1067,7 @@
         {
           "node_type": "item",
           "title": "Preview Checkout Success Page",
-          "description": "🫡 - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.",
+          "description": "Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1081,7 +1081,7 @@
         {
           "node_type": "item",
           "title": "Guest to Customer",
-          "description": "🫡 - Quickly and easily convert existing guest checkout customers to registered customers.",
+          "description": "Quickly and easily convert existing guest checkout customers to registered customers.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1123,7 +1123,7 @@
         {
           "node_type": "item",
           "title": "theme-adminhtml-m137",
-          "description": "M137 Admin Theme for Magento/Mage-OS",
+          "description": "🫡 - M137 Admin Theme for Magento/Mage-OS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1176,7 +1176,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T06:42:41Z",
+            "last_commit": "2026-08-17T00:09:12Z",
             "owner": "fastly",
             "repo": "fastly-magento2",
             "stars": 156
@@ -1412,7 +1412,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32651
+            "stars": 32654
           }
         },
         {
@@ -1439,9 +1439,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:30:07.664Z",
+    "last_updated": "2026-08-17T21:35:11.128Z",
     "original_repository": "run-as-root/awesome-magento2",
-    "original_repository_sha": "7d3d9867e7c0a52c572fb4148cd5fccb149c0ed6",
+    "original_repository_sha": "430ed587531a1e4de2220011ad72866f47a2141f",
     "enhanced_repository": "enhansome/enhansome-magento2",
     "enhanced_repository_description": null,
     "title": "Awesome Magento 2 with stars"
