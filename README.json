@@ -15,7 +15,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10941
+            "stars": 10943
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-04T15:14:22Z",
             "owner": "nunomaduro",
             "repo": "phpinsights",
-            "stars": 5629
+            "stars": 5630
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 80669528,
             "language": "Go",
-            "last_commit": "2026-08-19T06:15:44Z",
+            "last_commit": "2026-08-19T20:29:12Z",
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3741
+            "stars": 3742
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 25814103,
             "language": "PHP",
-            "last_commit": "2026-08-19T12:11:07Z",
+            "last_commit": "2026-08-19T14:56:48Z",
             "owner": "netz98",
             "repo": "n98-magerun2",
             "stars": 927
@@ -733,7 +733,7 @@
                 "last_commit": "2024-10-15T14:06:22Z",
                 "owner": "SnowdogApps",
                 "repo": "magento2-pl_pl",
-                "stars": 17
+                "stars": 16
               }
             },
             {
@@ -977,7 +977,7 @@
                 "archived": false,
                 "id": 54131069,
                 "language": "PHP",
-                "last_commit": "2026-08-19T07:39:37Z",
+                "last_commit": "2026-08-19T13:24:53Z",
                 "owner": "algolia",
                 "repo": "algoliasearch-magento-2",
                 "stars": 190
@@ -1223,7 +1223,7 @@
                 "archived": false,
                 "id": 93260571,
                 "language": "JavaScript",
-                "last_commit": "2026-08-11T16:08:38Z",
+                "last_commit": "2026-08-19T15:16:12Z",
                 "owner": "SnowdogApps",
                 "repo": "magento2-menu",
                 "stars": 331
@@ -1797,7 +1797,7 @@
             "last_commit": "2026-08-14T09:28:42Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12167
+            "stars": 12168
           }
         },
         {
@@ -1863,7 +1863,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32657
+            "stars": 32658
           }
         },
         {
@@ -1886,7 +1886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:40:09.557Z",
+    "last_updated": "2026-08-19T21:35:00.761Z",
     "original_repository": "run-as-root/awesome-magento2",
     "original_repository_id": 80614782,
     "original_repository_sha": "430ed587531a1e4de2220011ad72866f47a2141f",
