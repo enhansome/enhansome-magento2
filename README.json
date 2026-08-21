@@ -78,10 +78,10 @@
             "archived": false,
             "id": 80669528,
             "language": "Go",
-            "last_commit": "2026-08-20T10:24:02Z",
+            "last_commit": "2026-08-21T16:41:17Z",
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3743
+            "stars": 3744
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-20T12:51:05Z",
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2860
+            "stars": 2861
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 25814103,
             "language": "PHP",
-            "last_commit": "2026-08-20T21:32:37Z",
+            "last_commit": "2026-08-21T14:15:33Z",
             "owner": "netz98",
             "repo": "n98-magerun2",
             "stars": 928
@@ -666,7 +666,7 @@
                 "last_commit": "2026-07-13T13:12:20Z",
                 "owner": "deployphp",
                 "repo": "deployer",
-                "stars": 11097
+                "stars": 11098
               }
             },
             {
@@ -1204,7 +1204,7 @@
                 "last_commit": "2026-08-20T15:13:04Z",
                 "owner": "mage-os-lab",
                 "repo": "module-blog",
-                "stars": 15
+                "stars": 16
               }
             }
           ],
@@ -1268,7 +1268,7 @@
                 "archived": false,
                 "id": 124255193,
                 "language": "PHP",
-                "last_commit": "2026-08-20T06:39:48Z",
+                "last_commit": "2026-08-21T08:40:50Z",
                 "owner": "justbetter",
                 "repo": "magento2-sentry",
                 "stars": 187
@@ -1794,10 +1794,10 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-20T13:33:31Z",
+            "last_commit": "2026-08-21T17:55:27Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12168
+            "stars": 12170
           }
         },
         {
@@ -1886,7 +1886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:37:18.181Z",
+    "last_updated": "2026-08-21T21:33:49.206Z",
     "original_repository": "run-as-root/awesome-magento2",
     "original_repository_id": 80614782,
     "original_repository_sha": "430ed587531a1e4de2220011ad72866f47a2141f",
