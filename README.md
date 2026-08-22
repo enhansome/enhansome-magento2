@@ -1,6 +1,6 @@
 # Awesome Magento 2 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,621 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,962 | 🐛 106 | 📅 2026-08-21
 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Enrich](https://github.com/run-as-root/awesome-magento2/actions/workflows/enrich.yml/badge.svg)](https://github.com/run-as-root/awesome-magento2/actions/workflows/enrich.yml) ⭐ 1,174 | 🐛 9 | 🌐 PHP | 📅 2026-08-17
@@ -23,7 +23,7 @@
 
 > Tracking **233** projects · **62** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
 
-* [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 498,621 | 🐛 105 | 📅 2026-08-21
+* [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 498,962 | 🐛 106 | 📅 2026-08-21
 * [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues) ⭐ 1,174 | 🐛 9 | 🌐 PHP | 📅 2026-08-17
 
 ***
@@ -113,7 +113,7 @@ Also see:
 
 The storefront of Magento 2 can be styled in numerous ways:
 
-* [Alokai](https://github.com/vuestorefront/vue-storefront) ⭐ 10,943 | 🐛 52 | 📅 2026-06-09 - Formerly Vue Storefront — headless frontend framework.
+* [Alokai](https://github.com/vuestorefront/vue-storefront) ⭐ 10,944 | 🐛 52 | 📅 2026-06-09 - Formerly Vue Storefront — headless frontend framework.
 * [ScandiPWA](https://github.com/scandipwa/scandipwa) ⭐ 548 | 🐛 535 | 🌐 TypeScript | 📅 2024-07-15 - React/Redux PWA theme for Magento 2.3+.
 * [MageObsidian](https://github.com/mage-obsidian/module-modern-frontend) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2026-08-20 🫡 - Open-source Luma replacement using Vite, Vue 3 islands and TailwindCSS 4 on top of native layouts/blocks/templates. Native ESM, HMR, optional Twig engine.
 * [Adobe PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) - Adobe's headless React frontend. GraphQL client; offers Venia theme, Peregrine hooks, Buildpack (Webpack) and UPWARD (SSR/image middleware).
@@ -131,9 +131,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Tools
 
 * [PhpInsights](https://github.com/nunomaduro/phpinsights) ⭐ 5,630 | 🐛 73 | 🌐 PHP | 📅 2026-08-04 🔥 🫡 - PHP quality checks with Magento 2 presets.
-* [DDEV](https://github.com/ddev/ddev) ⭐ 3,744 | 🐛 157 | 🌐 Go | 📅 2026-08-21 🔥 🫡 - Open source tool for launching local web development environments in minutes. Supports PHP, Node.js and Python.
-* [markshust/docker-magento](https://github.com/markshust/docker-magento) ⭐ 2,861 | 🐛 0 | 🌐 Shell | 📅 2026-08-20 🫡 - Mark Shust's Docker configuration for Magento.
-* [n98-magerun2](https://github.com/netz98/n98-magerun2) ⭐ 928 | 🐛 15 | 🌐 PHP | 📅 2026-08-21 🫡 - The CLI Swiss Army Knife for Magento 2.
+* [DDEV](https://github.com/ddev/ddev) ⭐ 3,744 | 🐛 154 | 🌐 Go | 📅 2026-08-22 🔥 🫡 - Open source tool for launching local web development environments in minutes. Supports PHP, Node.js and Python.
+* [markshust/docker-magento](https://github.com/markshust/docker-magento) ⭐ 2,861 | 🐛 1 | 🌐 Shell | 📅 2026-08-20 🫡 - Mark Shust's Docker configuration for Magento.
+* [n98-magerun2](https://github.com/netz98/n98-magerun2) ⭐ 926 | 🐛 15 | 🌐 PHP | 📅 2026-08-21 🫡 - The CLI Swiss Army Knife for Magento 2.
 * [Warden](https://github.com/wardenenv/warden) ⭐ 465 | 🐛 47 | 🌐 Shell | 📅 2026-08-10 🫡 - CLI utility for working with docker-compose environments by David Alger.
 * [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) ⭐ 463 | 🐛 68 | 🌐 Java | 📅 2026-08-02 🫡 - Official PhpStorm Magento 2 extension.
 * [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) ⭐ 336 | 🐛 14 | 🌐 JavaScript | 📅 2024-04-22 - Chrome extension for Magento 2 development by MageSpecialist.
@@ -240,7 +240,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 * [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) ⭐ 190 | 🐛 3 | 🌐 PHP | 📅 2026-08-19 🫡 - Algolia Search (SaaS) Integration.
 * [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) ⭐ 140 | 🐛 37 | 🌐 PHP | 📅 2026-06-18 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 * [Disable Search Engine](https://github.com/zepgram/module-disable-search-engine) ⭐ 87 | 🐛 1 | 🌐 PHP | 📅 2025-05-16 - Disable Elasticsearch and fulltext indexing for category search.
-* [magento2-module-meilisearch](https://github.com/walkwizus/magento2-module-meilisearch) ⭐ 55 | 🐛 4 | 🌐 PHP | 📅 2026-08-20 - The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.
+* [magento2-module-meilisearch](https://github.com/walkwizus/magento2-module-meilisearch) ⭐ 55 | 🐛 3 | 🌐 PHP | 📅 2026-08-22 - The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.
 * [Typesense-Magento-2](https://github.com/run-as-root/Typesense-Magento-2) ⭐ 11 | 🐛 0 | 🌐 PHP | 📅 2026-07-08 🫡 - Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing — all Hyva-native and CSP-compatible.
 
 ### CMS
@@ -248,7 +248,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 * [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) ⭐ 270 | 🐛 0 | 🌐 PHP | 📅 2026-08-14 🔥 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
 * [Opengento GDPR](https://github.com/opengento/magento2-gdpr) ⭐ 145 | 🐛 8 | 🌐 PHP | 📅 2025-07-23 - Magento 2 GDPR module to help be GDPR compliant.
 * [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) ⭐ 121 | 🐛 24 | 🌐 PHP | 📅 2026-08-11 🫡 - Simple but well-working Blog Extension.
-* [hyva-ai-tools](https://github.com/hyva-themes/hyva-ai-tools) ⭐ 80 | 🐛 4 | 🌐 Shell | 📅 2026-07-31 - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
+* [hyva-ai-tools](https://github.com/hyva-themes/hyva-ai-tools) ⭐ 81 | 🐛 4 | 🌐 Shell | 📅 2026-07-31 - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
 * [magento-2-seeder](https://github.com/run-as-root/magento-2-seeder) ⭐ 36 | 🐛 0 | 🌐 PHP | 📅 2026-04-24 - Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.
 * [module-page-builder-widget](https://github.com/mage-os/module-page-builder-widget) ⭐ 30 | 🐛 2 | 🌐 HTML | 📅 2026-08-10 🫡 - Native Magento Page Builder support for CMS Widgets
 
@@ -510,8 +510,8 @@ Community members worth following — talks, blog posts, open-source maintenance
 
 ## Other Magento 2 related Awesome Lists
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,665 | 🐛 86 | 📅 2026-07-13 - A curated list of awesome PHP resources.
-* [Mageres](https://github.com/aleron75/mageres) ⭐ 1,020 | 🐛 2 | 🌐 PHP | 📅 2026-08-18 - Alessandro Ronchi's list of resources for Magento 1 and Magento 2.
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,666 | 🐛 86 | 📅 2026-07-13 - A curated list of awesome PHP resources.
+* [Mageres](https://github.com/aleron75/mageres) ⭐ 1,020 | 🐛 2 | 🌐 PHP | 📅 2026-08-22 - Alessandro Ronchi's list of resources for Magento 1 and Magento 2.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -540,4 +540,4 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
