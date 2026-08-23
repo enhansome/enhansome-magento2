@@ -15,7 +15,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10944
+            "stars": 10943
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-04T15:14:22Z",
             "owner": "nunomaduro",
             "repo": "phpinsights",
-            "stars": 5630
+            "stars": 5631
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 80669528,
             "language": "Go",
-            "last_commit": "2026-08-22T14:34:24Z",
+            "last_commit": "2026-08-23T21:30:06Z",
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3744
+            "stars": 3743
           }
         },
         {
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 845558727,
             "language": "PHP",
-            "last_commit": "2026-08-18T08:25:43Z",
+            "last_commit": "2026-08-23T10:33:47Z",
             "owner": "OpenForgeProject",
             "repo": "mageforge",
             "stars": 21
@@ -446,7 +446,7 @@
                 "archived": false,
                 "id": 414967404,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T09:02:34Z",
+                "last_commit": "2026-08-23T14:55:24Z",
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 262
@@ -484,21 +484,6 @@
             },
             {
               "node_type": "item",
-              "title": "Scope Hints",
-              "description": "🫡 - Displays additional information in the Store Configuration by Andreas von Studnitz.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 83804919,
-                "language": "PHP",
-                "last_commit": "2026-07-13T05:47:31Z",
-                "owner": "avstudnitz",
-                "repo": "AvS_ScopeHint2",
-                "stars": 171
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Cypress Testing Suite",
               "description": "A community-driven Cypress testing suite for Magento 2.",
               "children": [],
@@ -509,6 +494,21 @@
                 "last_commit": "2024-03-28T10:51:50Z",
                 "owner": "elgentos",
                 "repo": "magento2-cypress-testing-suite",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scope Hints",
+              "description": "🫡 - Displays additional information in the Store Configuration by Andreas von Studnitz.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83804919,
+                "language": "PHP",
+                "last_commit": "2026-07-13T05:47:31Z",
+                "owner": "avstudnitz",
+                "repo": "AvS_ScopeHint2",
                 "stars": 171
               }
             },
@@ -1797,7 +1797,7 @@
             "last_commit": "2026-08-21T17:55:27Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12170
+            "stars": 12171
           }
         },
         {
@@ -1863,7 +1863,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32666
+            "stars": 32670
           }
         },
         {
@@ -1886,7 +1886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:30:45.851Z",
+    "last_updated": "2026-08-23T21:30:40.950Z",
     "original_repository": "run-as-root/awesome-magento2",
     "original_repository_id": 80614782,
     "original_repository_sha": "430ed587531a1e4de2220011ad72866f47a2141f",
