@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499514
+            "stars": 499596
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T06:16:19Z",
             "owner": "run-as-root",
             "repo": "awesome-magento2",
-            "stars": 1174
+            "stars": 1175
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10943
+            "stars": 10942
           }
         },
         {
@@ -114,10 +114,10 @@
             "archived": false,
             "id": 80669528,
             "language": "Go",
-            "last_commit": "2026-08-24T06:21:58Z",
+            "last_commit": "2026-08-24T20:26:02Z",
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3743
+            "stars": 3744
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 25814103,
             "language": "PHP",
-            "last_commit": "2026-08-21T14:15:33Z",
+            "last_commit": "2026-08-24T21:32:41Z",
             "owner": "netz98",
             "repo": "n98-magerun2",
             "stars": 926
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-10T16:39:58Z",
             "owner": "wardenenv",
             "repo": "warden",
-            "stars": 465
+            "stars": 466
           }
         },
         {
@@ -488,7 +488,7 @@
                 "archived": false,
                 "id": 414967404,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T14:55:24Z",
+                "last_commit": "2026-08-24T17:43:40Z",
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 262
@@ -1891,7 +1891,7 @@
             "last_commit": "2021-08-15T09:48:29Z",
             "owner": "magento-notes",
             "repo": "magento2-exam-notes",
-            "stars": 699
+            "stars": 698
           }
         },
         {
@@ -1954,7 +1954,7 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-21T17:55:27Z",
+            "last_commit": "2026-08-24T14:44:46Z",
             "owner": "magento",
             "repo": "magento2",
             "stars": 12169
@@ -2067,7 +2067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:45.982Z",
+    "last_updated": "2026-08-24T21:38:19.919Z",
     "original_repository": "run-as-root/awesome-magento2",
     "original_repository_id": 80614782,
     "original_repository_sha": "cb60808aaa923a51284a377f1d26679b7cd714b1",
