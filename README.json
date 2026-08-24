@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "What is an awesome list?",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21737465,
+            "language": null,
+            "last_commit": "2026-08-21T12:39:13Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 499514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contribution guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80614782,
+            "language": "PHP",
+            "last_commit": "2026-08-24T06:16:19Z",
+            "owner": "run-as-root",
+            "repo": "awesome-magento2",
+            "stars": 1174
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": "The storefront of Magento 2 can be styled in numerous ways:",
       "items": [
         {
@@ -78,7 +114,7 @@
             "archived": false,
             "id": 80669528,
             "language": "Go",
-            "last_commit": "2026-08-23T21:30:06Z",
+            "last_commit": "2026-08-24T06:21:58Z",
             "owner": "ddev",
             "repo": "ddev",
             "stars": 3743
@@ -96,7 +132,7 @@
             "last_commit": "2026-08-20T12:51:05Z",
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2861
+            "stars": 2862
           }
         },
         {
@@ -288,7 +324,7 @@
             "archived": false,
             "id": 845558727,
             "language": "PHP",
-            "last_commit": "2026-08-23T10:33:47Z",
+            "last_commit": "2026-08-24T10:39:31Z",
             "owner": "OpenForgeProject",
             "repo": "mageforge",
             "stars": 21
@@ -323,7 +359,13 @@
             "repo": "magento2docker",
             "stars": 3
           }
-        },
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "Pestle",
@@ -385,7 +427,7 @@
           }
         }
       ],
-      "title": "Tools"
+      "title": "🪦 Graveyard — projects no longer recommended"
     },
     {
       "description": null,
@@ -780,171 +822,6 @@
                 "repo": "magento-2-finnish-language-pack",
                 "stars": 0
               }
-            },
-            {
-              "node_type": "item",
-              "title": "pt_BR",
-              "description": "Portuguese Brazil Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 109490857,
-                "language": "PHP",
-                "last_commit": "2023-03-15T15:11:17Z",
-                "owner": "rafaelstz",
-                "repo": "traducao_magento2_pt_br",
-                "stars": 73
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "fr_FR",
-              "description": "French Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 49590458,
-                "language": "PHP",
-                "last_commit": "2021-02-08T01:58:46Z",
-                "owner": "Imaginaerum",
-                "repo": "magento2-language-fr-fr",
-                "stars": 41
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "tr_TR",
-              "description": "Turkish Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 48075959,
-                "language": "PHP",
-                "last_commit": "2019-08-04T00:16:00Z",
-                "owner": "hidonet",
-                "repo": "magento2-language-tr_tr",
-                "stars": 32
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "es_ES",
-              "description": "Spanish Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 57335695,
-                "language": "PHP",
-                "last_commit": "2020-08-07T20:54:18Z",
-                "owner": "eusonlito",
-                "repo": "magento2-language-es_es",
-                "stars": 14
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "sl_SI",
-              "description": "Slovenian Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 50219806,
-                "language": "PHP",
-                "last_commit": "2018-05-27T21:50:53Z",
-                "owner": "symfony-si",
-                "repo": "magento2-sl-si",
-                "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ro_RO",
-              "description": "Romanian Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 78362649,
-                "language": "PHP",
-                "last_commit": "2021-04-29T13:00:25Z",
-                "owner": "EaDesgin",
-                "repo": "magento2-romanian-language-pack",
-                "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "de_CH",
-              "description": "Swiss Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 54373061,
-                "language": "PHP",
-                "last_commit": "2022-04-08T10:30:11Z",
-                "owner": "staempfli",
-                "repo": "magento2-language-de-ch",
-                "stars": 7
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ko_KR",
-              "description": "Korean Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 73484170,
-                "language": "PHP",
-                "last_commit": "2022-02-22T09:04:44Z",
-                "owner": "mageplaza",
-                "repo": "magento-2-korean-language-pack",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "en_GB",
-              "description": "British Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 93807279,
-                "language": "PHP",
-                "last_commit": "2021-04-28T14:43:01Z",
-                "owner": "cubewebsites",
-                "repo": "magento2-language-en-gb",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "es_AR",
-              "description": "Spanish (Argentina) Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 113752120,
-                "language": "PHP",
-                "last_commit": "2019-12-23T17:21:11Z",
-                "owner": "SemExpert",
-                "repo": "Magento2-language-es_ar",
-                "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "sk_SK",
-              "description": "Slovakian Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 73484220,
-                "language": "PHP",
-                "last_commit": "2023-01-25T14:56:13Z",
-                "owner": "mageplaza",
-                "repo": "magento-2-slovak-language-pack",
-                "stars": 0
-              }
             }
           ],
           "description": null,
@@ -1292,7 +1169,7 @@
             {
               "node_type": "item",
               "title": "Customer Force Login",
-              "description": "Forces customers to log in before accessing certain pages.",
+              "description": "🫡 - Forces customers to log in before accessing certain pages.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1397,7 +1274,7 @@
             {
               "node_type": "item",
               "title": "PageNotFound",
-              "description": "Saves upcoming 404s in your database with the possibility to create a redirect.",
+              "description": "🫡 - Saves upcoming 404s in your database with the possibility to create a redirect.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1453,66 +1330,6 @@
                 "repo": "ElNino_ProductLinksNavigator",
                 "stars": 17
               }
-            },
-            {
-              "node_type": "item",
-              "title": "shkoliar/magento-grid-colors",
-              "description": "Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid bookmarks by Dmitry Shkoliar.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 233925514,
-                "language": "JavaScript",
-                "last_commit": "2021-10-05T20:17:49Z",
-                "owner": "shkoliar",
-                "repo": "magento-grid-colors",
-                "stars": 59
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "extdn/extension-dashboard-m2",
-              "description": "A Magento 2 dashboard to display installed extensions by the Magento Extension Developers Network.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 171781201,
-                "language": "PHP",
-                "last_commit": "2022-03-23T10:19:03Z",
-                "owner": "extdn",
-                "repo": "extension-dashboard-m2",
-                "stars": 38
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Reset Customer Password",
-              "description": "Set a customer password with bin/magento by Vinai Kopp.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 100708932,
-                "language": "PHP",
-                "last_commit": "2022-06-15T09:11:55Z",
-                "owner": "Vinai",
-                "repo": "module-customer-password-command",
-                "stars": 27
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "hivecommerce/magento2-content-fuzzyfyr",
-              "description": "The Content Fuzzyfyr module for Magento 2 replaces real content with dummy content — useful for development, test data, and matching GDPR restrictions.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 417574786,
-                "language": "PHP",
-                "last_commit": "2024-09-02T04:29:07Z",
-                "owner": "hivecommerce",
-                "repo": "magento2-content-fuzzyfyr",
-                "stars": 14
-              }
             }
           ],
           "description": null,
@@ -1523,8 +1340,30 @@
           "children": [
             {
               "node_type": "item",
+              "title": "PAYONE",
+              "description": "🫡 - PAYONE Payment Integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58461435,
+                "language": "PHP",
+                "last_commit": "2026-08-19T07:01:57Z",
+                "owner": "PAYONE-GmbH",
+                "repo": "magento-2",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Payment Service Provider"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Ethan3600/magento2-CronjobManager",
-              "description": "🔥 - Cron Job Manager for Magento 2.",
+              "description": "🔥 🫡 - Cron Job Manager for Magento 2.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1721,6 +1560,327 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Magento 2 PHPStorm File Templates",
+          "description": "PHPStorm Magento 2 File Templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96692821,
+            "language": "HTML",
+            "last_commit": "2022-12-21T18:56:04Z",
+            "owner": "lfolco",
+            "repo": "phpstorm-m2-filetemplates",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "🪦 Graveyard — projects no longer recommended"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Magento 2 Deployer Plus",
+          "description": "Tool based on deployer.org to perform zero-downtime deployments of Magento 2 projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122631849,
+            "language": "PHP",
+            "last_commit": "2022-10-03T07:37:24Z",
+            "owner": "jalogut",
+            "repo": "magento2-deployer-plus",
+            "stars": 201
+          }
+        }
+      ],
+      "title": "🪦 Graveyard — projects no longer recommended"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pt_BR",
+          "description": "Portuguese Brazil Language Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109490857,
+            "language": "PHP",
+            "last_commit": "2023-03-15T15:11:17Z",
+            "owner": "rafaelstz",
+            "repo": "traducao_magento2_pt_br",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fr_FR",
+          "description": "French Language Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49590458,
+            "language": "PHP",
+            "last_commit": "2021-02-08T01:58:46Z",
+            "owner": "Imaginaerum",
+            "repo": "magento2-language-fr-fr",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tr_TR",
+          "description": "Turkish Language Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48075959,
+            "language": "PHP",
+            "last_commit": "2019-08-04T00:16:00Z",
+            "owner": "hidonet",
+            "repo": "magento2-language-tr_tr",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "es_ES",
+          "description": "Spanish Language Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57335695,
+            "language": "PHP",
+            "last_commit": "2020-08-07T20:54:18Z",
+            "owner": "eusonlito",
+            "repo": "magento2-language-es_es",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sl_SI",
+          "description": "Slovenian Language Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50219806,
+            "language": "PHP",
+            "last_commit": "2018-05-27T21:50:53Z",
+            "owner": "symfony-si",
+            "repo": "magento2-sl-si",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ro_RO",
+          "description": "Romanian Language Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78362649,
+            "language": "PHP",
+            "last_commit": "2021-04-29T13:00:25Z",
+            "owner": "EaDesgin",
+            "repo": "magento2-romanian-language-pack",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "de_CH",
+          "description": "Swiss Language Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54373061,
+            "language": "PHP",
+            "last_commit": "2022-04-08T10:30:11Z",
+            "owner": "staempfli",
+            "repo": "magento2-language-de-ch",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ko_KR",
+          "description": "Korean Language Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73484170,
+            "language": "PHP",
+            "last_commit": "2022-02-22T09:04:44Z",
+            "owner": "mageplaza",
+            "repo": "magento-2-korean-language-pack",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "en_GB",
+          "description": "British Language Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93807279,
+            "language": "PHP",
+            "last_commit": "2021-04-28T14:43:01Z",
+            "owner": "cubewebsites",
+            "repo": "magento2-language-en-gb",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "es_AR",
+          "description": "Spanish (Argentina) Language Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 113752120,
+            "language": "PHP",
+            "last_commit": "2019-12-23T17:21:11Z",
+            "owner": "SemExpert",
+            "repo": "Magento2-language-es_ar",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sk_SK",
+          "description": "Slovakian Language Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73484220,
+            "language": "PHP",
+            "last_commit": "2023-01-25T14:56:13Z",
+            "owner": "mageplaza",
+            "repo": "magento-2-slovak-language-pack",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "🪦 Graveyard — projects no longer recommended"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Magento 2 PDF",
+          "description": "PDF Generator based on wkhtmltopdf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75283650,
+            "language": "PHP",
+            "last_commit": "2020-09-16T12:01:24Z",
+            "owner": "staempfli",
+            "repo": "magento2-module-pdf",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "🪦 Graveyard — projects no longer recommended"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shkoliar/magento-grid-colors",
+          "description": "Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid bookmarks by Dmitry Shkoliar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 233925514,
+            "language": "JavaScript",
+            "last_commit": "2021-10-05T20:17:49Z",
+            "owner": "shkoliar",
+            "repo": "magento-grid-colors",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "extdn/extension-dashboard-m2",
+          "description": "A Magento 2 dashboard to display installed extensions by the Magento Extension Developers Network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171781201,
+            "language": "PHP",
+            "last_commit": "2022-03-23T10:19:03Z",
+            "owner": "extdn",
+            "repo": "extension-dashboard-m2",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reset Customer Password",
+          "description": "Set a customer password with bin/magento by Vinai Kopp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100708932,
+            "language": "PHP",
+            "last_commit": "2022-06-15T09:11:55Z",
+            "owner": "Vinai",
+            "repo": "module-customer-password-command",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hivecommerce/magento2-content-fuzzyfyr",
+          "description": "The Content Fuzzyfyr module for Magento 2 replaces real content with dummy content — useful for development, test data, and matching GDPR restrictions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 417574786,
+            "language": "PHP",
+            "last_commit": "2024-09-02T04:29:07Z",
+            "owner": "hivecommerce",
+            "repo": "magento2-content-fuzzyfyr",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "🪦 Graveyard — projects no longer recommended"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stripe",
+          "description": "Stripe Payments for Magento 2.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 80884547,
+            "language": "PHP",
+            "last_commit": "2018-12-18T12:07:29Z",
+            "owner": "pmclain",
+            "repo": "module-stripe",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "🪦 Graveyard — projects no longer recommended"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "magento-notes/magento2-exam-notes",
           "description": "Preparation notes for the Magento 2 Certified Professional Developer exam.",
           "children": [],
@@ -1780,7 +1940,7 @@
           }
         }
       ],
-      "title": "Learning"
+      "title": "🪦 Graveyard — projects no longer recommended"
     },
     {
       "description": null,
@@ -1797,13 +1957,13 @@
             "last_commit": "2026-08-21T17:55:27Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12171
+            "stars": 12169
           }
         },
         {
           "node_type": "item",
           "title": "Magento Coding Standards",
-          "description": "Official Magento 2 advanced ruleset for PHP_CodeSniffer.",
+          "description": "🫡 - Official Magento 2 advanced ruleset for PHP_CodeSniffer.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1863,7 +2023,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32670
+            "stars": 32672
           }
         },
         {
@@ -1883,13 +2043,34 @@
         }
       ],
       "title": "Other Magento 2 related Awesome Lists"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Magento",
+          "description": "An awesome Magento list with mixed M1 and M2 content by sunel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41964138,
+            "language": null,
+            "last_commit": "2021-07-06T07:20:20Z",
+            "owner": "sunel",
+            "repo": "awesome-magento",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "🪦 Graveyard — projects no longer recommended"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:30:40.950Z",
+    "last_updated": "2026-08-24T14:13:45.982Z",
     "original_repository": "run-as-root/awesome-magento2",
     "original_repository_id": 80614782,
-    "original_repository_sha": "430ed587531a1e4de2220011ad72866f47a2141f",
+    "original_repository_sha": "cb60808aaa923a51284a377f1d26679b7cd714b1",
     "enhanced_repository": "enhansome/enhansome-magento2",
     "enhanced_repository_description": null,
     "title": "Awesome Magento 2 with stars"
