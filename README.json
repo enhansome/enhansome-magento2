@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499702
+            "stars": 499903
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10940
+            "stars": 10942
           }
         },
         {
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 80669528,
             "language": "Go",
-            "last_commit": "2026-08-24T20:26:02Z",
+            "last_commit": "2026-08-25T17:34:54Z",
             "owner": "ddev",
             "repo": "ddev",
             "stars": 3745
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 25814103,
             "language": "PHP",
-            "last_commit": "2026-08-24T21:32:41Z",
+            "last_commit": "2026-08-25T21:32:38Z",
             "owner": "netz98",
             "repo": "n98-magerun2",
             "stars": 926
@@ -324,7 +324,7 @@
             "archived": false,
             "id": 845558727,
             "language": "PHP",
-            "last_commit": "2026-08-24T10:39:31Z",
+            "last_commit": "2026-08-25T11:16:51Z",
             "owner": "OpenForgeProject",
             "repo": "mageforge",
             "stars": 21
@@ -488,7 +488,7 @@
                 "archived": false,
                 "id": 414967404,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T17:43:40Z",
+                "last_commit": "2026-08-25T11:34:02Z",
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 262
@@ -503,7 +503,7 @@
                 "archived": false,
                 "id": 160542079,
                 "language": "PHP",
-                "last_commit": "2026-08-13T11:00:30Z",
+                "last_commit": "2026-08-25T15:38:45Z",
                 "owner": "sansecio",
                 "repo": "magevulndb",
                 "stars": 220
@@ -563,7 +563,7 @@
                 "archived": false,
                 "id": 44912193,
                 "language": "PHP",
-                "last_commit": "2026-05-29T06:48:46Z",
+                "last_commit": "2026-08-25T07:00:03Z",
                 "owner": "semaio",
                 "repo": "Magento2-ConfigImportExport",
                 "stars": 165
@@ -854,7 +854,7 @@
                 "archived": false,
                 "id": 54131069,
                 "language": "PHP",
-                "last_commit": "2026-08-19T13:24:53Z",
+                "last_commit": "2026-08-25T13:41:31Z",
                 "owner": "algolia",
                 "repo": "algoliasearch-magento-2",
                 "stars": 190
@@ -1078,10 +1078,10 @@
                 "archived": false,
                 "id": 1116132883,
                 "language": "PHP",
-                "last_commit": "2026-08-20T15:13:04Z",
+                "last_commit": "2026-08-25T21:36:48Z",
                 "owner": "mage-os-lab",
                 "repo": "module-blog",
-                "stars": 16
+                "stars": 17
               }
             }
           ],
@@ -1954,10 +1954,10 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-24T14:44:46Z",
+            "last_commit": "2026-08-25T11:37:52Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12168
+            "stars": 12169
           }
         },
         {
@@ -2023,7 +2023,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32671
+            "stars": 32669
           }
         },
         {
@@ -2067,7 +2067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:35.339Z",
+    "last_updated": "2026-08-25T21:37:32.846Z",
     "original_repository": "run-as-root/awesome-magento2",
     "original_repository_id": 80614782,
     "original_repository_sha": "cb60808aaa923a51284a377f1d26679b7cd714b1",
