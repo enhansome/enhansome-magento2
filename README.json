@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499596
+            "stars": 499702
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10942
+            "stars": 10940
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-24T20:26:02Z",
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3744
+            "stars": 3745
           }
         },
         {
@@ -1957,7 +1957,7 @@
             "last_commit": "2026-08-24T14:44:46Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12169
+            "stars": 12168
           }
         },
         {
@@ -2023,7 +2023,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32672
+            "stars": 32671
           }
         },
         {
@@ -2067,7 +2067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:38:19.919Z",
+    "last_updated": "2026-08-25T06:08:35.339Z",
     "original_repository": "run-as-root/awesome-magento2",
     "original_repository_id": 80614782,
     "original_repository_sha": "cb60808aaa923a51284a377f1d26679b7cd714b1",
