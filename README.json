@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500241
+            "stars": 500364
           }
         },
         {
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 80669528,
             "language": "Go",
-            "last_commit": "2026-08-26T21:22:32Z",
+            "last_commit": "2026-08-27T09:19:21Z",
             "owner": "ddev",
             "repo": "ddev",
             "stars": 3746
@@ -488,7 +488,7 @@
                 "archived": false,
                 "id": 414967404,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T12:25:02Z",
+                "last_commit": "2026-08-27T07:42:49Z",
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 262
@@ -708,7 +708,7 @@
                 "last_commit": "2026-08-26T14:50:06Z",
                 "owner": "deployphp",
                 "repo": "deployer",
-                "stars": 11097
+                "stars": 11098
               }
             },
             {
@@ -854,7 +854,7 @@
                 "archived": false,
                 "id": 54131069,
                 "language": "PHP",
-                "last_commit": "2026-08-26T15:13:52Z",
+                "last_commit": "2026-08-27T09:57:38Z",
                 "owner": "algolia",
                 "repo": "algoliasearch-magento-2",
                 "stars": 191
@@ -1103,7 +1103,7 @@
                 "last_commit": "2026-08-19T15:16:12Z",
                 "owner": "SnowdogApps",
                 "repo": "magento2-menu",
-                "stars": 331
+                "stars": 332
               }
             },
             {
@@ -1954,7 +1954,7 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-25T11:37:52Z",
+            "last_commit": "2026-08-27T10:24:11Z",
             "owner": "magento",
             "repo": "magento2",
             "stars": 12169
@@ -2067,9 +2067,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:39:34.577Z",
-    "original_repository": "run-as-root/awesome-magento2",
-    "original_repository_id": 80614782,
+    "last_updated": "2026-08-27T11:51:46.244Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 80614782,
+      "language": "PHP",
+      "last_commit": "2026-08-24T06:16:19Z",
+      "owner": "run-as-root",
+      "repo": "awesome-magento2",
+      "stars": 1175
+    },
     "original_repository_sha": "cb60808aaa923a51284a377f1d26679b7cd714b1",
     "enhanced_repository": "enhansome/enhansome-magento2",
     "enhanced_repository_description": null,
