@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500880
+            "stars": 500891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -26,12 +37,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
+            "homepage": null,
             "id": 80614782,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-24T06:16:19Z",
+            "open_issues": 8,
             "owner": "run-as-root",
             "repo": "awesome-magento2",
-            "stars": 1175
+            "stars": 1175,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "collection",
+              "documentation",
+              "documentation-tool",
+              "magento-2",
+              "magento-extension",
+              "magento2",
+              "packages",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -48,12 +75,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to deliver exceptional customer experiences quickly and easily.",
+            "homepage": "https://www.alokai.com",
             "id": 100346588,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-09T12:03:34Z",
+            "open_issues": 52,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10941
+            "stars": 10941,
+            "topics": [
+              "commercetools",
+              "e-commerce",
+              "ecommerce",
+              "ecommerce-platform",
+              "headless",
+              "headless-commerce",
+              "integrations-team",
+              "magento",
+              "magento2",
+              "mobile",
+              "nuxt",
+              "open-source",
+              "pwa",
+              "shopify",
+              "shopware",
+              "storefront",
+              "typescript",
+              "vue",
+              "vue-storefront",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -64,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next-generation front-end for Magento 2",
+            "homepage": "https://scandipwa.com/?utm_source=github&utm_medium=readme&utm_campaign=general",
             "id": 174561264,
             "language": "TypeScript",
+            "license": "OSL-3.0",
             "last_commit": "2024-07-15T13:53:56Z",
+            "open_issues": 535,
             "owner": "scandipwa",
             "repo": "scandipwa",
-            "stars": 548
+            "stars": 548,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -80,12 +138,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern frontend core for Magento 2 — replaces Luma/LESS/RequireJS with Vite, Tailwind CSS 4, Vue and native ESM while keeping Magento layouts, blocks and templates.",
+            "homepage": "https://mage-obsidian.jeanmarcos.dev/",
             "id": 897308789,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:14:18Z",
+            "open_issues": 0,
             "owner": "mage-obsidian",
             "repo": "module-modern-frontend",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ecommerce",
+              "esm",
+              "frontend",
+              "hmr",
+              "magento",
+              "magento2",
+              "magento2-module",
+              "tailwindcss",
+              "vite",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -102,12 +176,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔰 Instant PHP quality checks from your console",
+            "homepage": "https://youtube.com/@nunomaduro?sub_confirmation=1",
             "id": 178703607,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-04T15:14:22Z",
+            "open_issues": 73,
             "owner": "nunomaduro",
             "repo": "phpinsights",
-            "stars": 5631
+            "stars": 5631,
+            "topics": [
+              "analytics",
+              "architecture",
+              "cli",
+              "code",
+              "complexity",
+              "console",
+              "cs",
+              "hacktoberfest",
+              "php",
+              "quality",
+              "static",
+              "style",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -118,12 +211,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker-based local PHP+Node.js web development environments",
+            "homepage": "https://ddev.com",
             "id": 80669528,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:19:33Z",
+            "open_issues": 163,
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3815
+            "stars": 3815,
+            "topics": [
+              "backdrop",
+              "craftcms",
+              "ddev",
+              "development",
+              "docker",
+              "drupal",
+              "laravel",
+              "linux",
+              "local-development",
+              "macos",
+              "magento",
+              "magento2",
+              "mariadb",
+              "moodle",
+              "nodejs",
+              "php",
+              "typo3",
+              "windows",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -134,12 +252,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mark Shust's Docker Configuration for Magento",
+            "homepage": "https://m.academy/courses/set-up-magento-2-development-environment-docker/",
             "id": 44771822,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-20T12:51:05Z",
+            "open_issues": 2,
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2863
+            "stars": 2863,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "docker-magento",
+              "hacktoberfest",
+              "magento",
+              "magento-2",
+              "magento2"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -150,12 +281,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API.",
+            "homepage": "https://magerun.net",
             "id": 25814103,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:32:38Z",
+            "open_issues": 16,
             "owner": "netz98",
             "repo": "n98-magerun2",
-            "stars": 927
+            "stars": 927,
+            "topics": [
+              "cli-app",
+              "magento2",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -166,12 +306,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Warden is a CLI utility for orchestrating Docker based developer environments",
+            "homepage": "https://warden.dev",
             "id": 189133794,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-10T16:39:58Z",
+            "open_issues": 47,
             "owner": "wardenenv",
             "repo": "warden",
-            "stars": 466
+            "stars": 466,
+            "topics": [
+              "cli-utility",
+              "docker",
+              "linux",
+              "macos",
+              "magento",
+              "magento1",
+              "magento2",
+              "warden"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -182,12 +336,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHPStorm Plugin for Magento 2",
+            "homepage": null,
             "id": 113209707,
             "language": "Java",
+            "license": "OSL-3.0",
             "last_commit": "2026-08-28T18:03:08Z",
+            "open_issues": 66,
             "owner": "magento",
             "repo": "magento2-phpstorm-plugin",
-            "stars": 463
+            "stars": 463,
+            "topics": [
+              "hacktoberfest",
+              "intellij",
+              "intellij-plugin",
+              "java",
+              "javascript",
+              "jetbrains",
+              "magento",
+              "magento2",
+              "php",
+              "phpstorm",
+              "phpstorm-plugin",
+              "requirejs"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -198,12 +370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento Chrome Toolbar for MSP_DevTools",
+            "homepage": null,
             "id": 65362386,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-04-22T16:30:32Z",
+            "open_issues": 14,
             "owner": "magespecialist",
             "repo": "mage-chrome-toolbar",
-            "stars": 336
+            "stars": 336,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -214,12 +391,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helper script to aid upgrading magento 2 websites by detecting overrides. Now supports third party module detections",
+            "homepage": null,
             "id": 159822918,
             "language": "PHP",
+            "license": "LGPL-3.0",
             "last_commit": "2024-11-11T08:33:25Z",
+            "open_issues": 11,
             "owner": "idhlagency",
             "repo": "ampersand-magento2-upgrade-patch-helper",
-            "stars": 333
+            "stars": 333,
+            "topics": [
+              "magento",
+              "magento2"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -230,12 +415,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento 2 module which can find potential url related problems in your catalog data",
+            "homepage": null,
             "id": 196749733,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-04-14T16:28:58Z",
+            "open_issues": 8,
             "owner": "baldwin-agency",
             "repo": "magento2-module-url-data-integrity-checker",
-            "stars": 282
+            "stars": 282,
+            "topics": [
+              "magento2",
+              "magento2-extension",
+              "magento2-module"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -246,12 +440,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MageSpecialist DevTools for Magento2",
+            "homepage": null,
             "id": 65375314,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-06-20T07:52:12Z",
+            "open_issues": 13,
             "owner": "magespecialist",
             "repo": "m2-MSP_DevTools",
-            "stars": 222
+            "stars": 222,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -262,12 +463,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tango is a command-line tool for analyzing access logs 💃",
+            "homepage": null,
             "id": 198282902,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-24T22:36:07Z",
+            "open_issues": 24,
             "owner": "roma-glushko",
             "repo": "tango",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "access-logs",
+              "analysis",
+              "analytics",
+              "analyzer",
+              "apache-log",
+              "apache-log-analysis",
+              "devops",
+              "devops-tools",
+              "go",
+              "golang",
+              "monitoring",
+              "tango-logs",
+              "user-agent"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -278,12 +498,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Migration Tool for Adobe Commerce to Magento Open Source",
+            "homepage": null,
             "id": 226278485,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-11-17T18:04:36Z",
+            "open_issues": 4,
             "owner": "opengento",
             "repo": "magento2-downgrade-ee-ce",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "adobe-commerce",
+              "adobe-commerce-cloud",
+              "adobe-commerce-devsite",
+              "downgrade",
+              "magento",
+              "magento-commerce",
+              "magento-open-source",
+              "magento-opensource",
+              "magento2",
+              "mariadb",
+              "mysql",
+              "tool",
+              "toolkit"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -294,12 +533,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.",
+            "homepage": "https://www.berrypath.eu",
             "id": 384900364,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-29T08:37:54Z",
+            "open_issues": 2,
             "owner": "jellesiderius",
             "repo": "mage-db-sync",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "development-environment",
+              "import",
+              "magento",
+              "magento2",
+              "magerun2",
+              "php",
+              "synchronization",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -310,12 +563,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento 2 RabbitMQ message queue retry module",
+            "homepage": "https://www.run-as-root.sh",
             "id": 606031797,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-10-15T09:06:26Z",
+            "open_issues": 0,
             "owner": "run-as-root",
             "repo": "magento2-message-queue-retry",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "magento2",
+              "magento2-extension",
+              "magento2-extension-free",
+              "magento2-module",
+              "php",
+              "rabbitmq"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -326,12 +591,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplifies bin/magento commands by adding helpful shortcuts and time-saving tools to enhance your productivity.",
+            "homepage": null,
             "id": 191217287,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-03T15:10:56Z",
+            "open_issues": 4,
             "owner": "GrimLink",
             "repo": "mage",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "bash-script",
+              "cachemanager",
+              "composer",
+              "hyva",
+              "magento2",
+              "magerun2",
+              "nodejs",
+              "php",
+              "siteation",
+              "valet",
+              "warden",
+              "yireo"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -342,12 +625,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MageForge is a Magento 2 module designed to assist frontend developers in streamlining their workflow and enhancing productivity.",
+            "homepage": null,
             "id": 845558727,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T11:16:51Z",
+            "open_issues": 2,
             "owner": "OpenForgeProject",
             "repo": "mageforge",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "build-automation",
+              "build-automation-tool",
+              "cli-tool",
+              "developer-tools",
+              "development",
+              "frontend-development",
+              "hyva",
+              "hyva-community",
+              "hyva-module",
+              "hyva-themes",
+              "magento-development",
+              "magento-theme",
+              "magento2",
+              "magento2-module",
+              "magento2-module-free",
+              "theme-builder",
+              "workflow-enhancement"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -358,12 +664,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Develop faster on Magento / Adobe Commerce with Mage Wizard",
+            "homepage": "https://mage-wizard.dev/",
             "id": 684635124,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-17T08:57:25Z",
+            "open_issues": 6,
             "owner": "ClickAndMortar",
             "repo": "mage-wizard",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "adobe-commerce",
+              "magento",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -374,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This Setup can be used to fast demo magento 2 or as as development enviroment. The main docker image `osioaliu/magento2docker` has all applications (Nginx, PHP, MariaDB, Redis, Elasticsearch) needed to run Magento 2",
+            "homepage": null,
             "id": 591394715,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-03-31T12:04:18Z",
+            "open_issues": 0,
             "owner": "aliuosio",
             "repo": "magento2docker",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -396,12 +716,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of command line scripts for Magento 2 code generation, and a PHP module system for organizing command line scripts. ",
+            "homepage": null,
             "id": 48827954,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-04-19T19:18:27Z",
+            "open_issues": 184,
             "owner": "astorm",
             "repo": "pestle",
-            "stars": 531
+            "stars": 531,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -412,12 +737,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool",
+            "homepage": null,
             "id": 140482706,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-10-19T12:17:24Z",
+            "open_issues": 20,
             "owner": "elgentos",
             "repo": "masquerade",
-            "stars": 231
+            "stars": 231,
+            "topics": [
+              "faker",
+              "hacktoberfest",
+              "magento",
+              "magento2",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -428,12 +764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gulp for Magento 2",
+            "homepage": null,
             "id": 74536344,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-10T03:42:13Z",
+            "open_issues": 5,
             "owner": "subodha",
             "repo": "magento-2-gulp",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -444,12 +785,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This Repository contains a custom Workflow for Alfred which provides the function to instantly search in the Magento 2 DevDocs",
+            "homepage": null,
             "id": 74225154,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2016-11-19T18:36:53Z",
+            "open_issues": 1,
             "owner": "DavidLambauer",
             "repo": "Alfred-Workflow-Magento-2-DevDocs-Search",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -468,12 +814,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A faster drop in replacement for bin/magento cache:clean with file watcher",
+                "homepage": null,
                 "id": 144050385,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-11T13:46:45Z",
+                "open_issues": 14,
                 "owner": "mage2tv",
                 "repo": "magento-cache-clean",
-                "stars": 543
+                "stars": 543,
+                "topics": [
+                  "cachemanager",
+                  "development-utility",
+                  "magento2"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -484,12 +839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mgt DeveloperToolbar for Magento 2",
+                "homepage": "https://www.mgt-commerce.com/",
                 "id": 5083453,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-12-11T14:08:58Z",
+                "open_issues": 2,
                 "owner": "mgtcommerce",
                 "repo": "Mgt_Developertoolbar",
-                "stars": 304
+                "stars": 304,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -500,12 +860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "H&O Magento 2 Advanced Template Hints module",
+                "homepage": null,
                 "id": 60734890,
                 "language": "PHP",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-05-12T08:51:36Z",
+                "open_issues": 22,
                 "owner": "ho-nl",
                 "repo": "magento2-Ho_Templatehints",
-                "stars": 287
+                "stars": 287,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -516,12 +881,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magewire is a Laravel Livewire port for Magento 2. The goal is to make it fun and easy to build modern, reactive and dynamic interfaces, without leaving the comfort of Magento's core layout and template systems. Magewire can be the missing piece when you intend to build dynamic and reactive features, but don't require or feel comfortable working with a full JavaScript framework like Vue or React.",
+                "homepage": null,
                 "id": 414967404,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:32:29Z",
+                "open_issues": 6,
                 "owner": "magewirephp",
                 "repo": "magewire",
-                "stars": 262
+                "stars": 262,
+                "topics": [
+                  "magento2",
+                  "magento2-module"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -532,12 +905,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of Magento extensions with known security issues. ",
+                "homepage": "https://sansec.io",
                 "id": 160542079,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-26T07:41:34Z",
+                "open_issues": 10,
                 "owner": "sansecio",
                 "repo": "magevulndb",
-                "stars": 221
+                "stars": 221,
+                "topics": [
+                  "extensions",
+                  "magento",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -548,12 +930,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 Configurator",
+                "homepage": "https://ctidigital.github.io/magento2-configurator/",
                 "id": 62234006,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-20T14:59:35Z",
+                "open_issues": 22,
                 "owner": "ctidigital",
                 "repo": "magento2-configurator",
-                "stars": 174
+                "stars": 174,
+                "topics": [
+                  "config",
+                  "configuration",
+                  "magento",
+                  "magento2",
+                  "magento2-extension",
+                  "magento2-module",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -564,12 +959,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A community-driven Cypress testing suite for Magento 2",
+                "homepage": "https://elgentos.com",
                 "id": 434339413,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-28T10:51:50Z",
+                "open_issues": 19,
                 "owner": "elgentos",
                 "repo": "magento2-cypress-testing-suite",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "cypress",
+                  "cypress-io",
+                  "e2e-testing",
+                  "hacktoberfest",
+                  "magento",
+                  "magento2",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -580,12 +988,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 module for displaying additional information in configuration",
+                "homepage": null,
                 "id": 83804919,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-07-13T05:47:31Z",
+                "open_issues": 7,
                 "owner": "avstudnitz",
                 "repo": "AvS_ScopeHint2",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "magento2",
+                  "magento2-extension",
+                  "magento2-module"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -596,12 +1013,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Import/Export configuration data in Magento 2 via CLI.",
+                "homepage": null,
                 "id": 44912193,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-08-25T07:00:03Z",
+                "open_issues": 2,
                 "owner": "semaio",
                 "repo": "Magento2-ConfigImportExport",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -612,12 +1034,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento specific extension for PHPStan",
+                "homepage": null,
                 "id": 176821265,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T08:23:06Z",
+                "open_issues": 11,
                 "owner": "bitExpert",
                 "repo": "phpstan-magento",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "magento2",
+                  "php",
+                  "phpstan",
+                  "phpstan-extension"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -628,12 +1060,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 module integrating Whoops error handling",
+                "homepage": null,
                 "id": 65015287,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-06-01T17:54:33Z",
+                "open_issues": 3,
                 "owner": "yireo",
                 "repo": "Yireo_Whoops",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "magento2-module"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -644,12 +1083,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Magento 2 module that enables configurable CORS Headers on the GraphQL and REST APIs",
+                "homepage": "https://packagist.org/packages/graycore/magento2-cors",
                 "id": 195814560,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-19T21:48:41Z",
+                "open_issues": 1,
                 "owner": "graycoreio",
                 "repo": "magento2-cors",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "cors",
+                  "cors-headers",
+                  "cors-protocol",
+                  "graphql",
+                  "hacktoberfest",
+                  "magento",
+                  "magento2",
+                  "magento2-extension",
+                  "magento2-module",
+                  "php",
+                  "rest"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -660,12 +1116,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Magento 2 Prometheus Exporter.",
+                "homepage": null,
                 "id": 191891355,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-04T18:25:03Z",
+                "open_issues": 0,
                 "owner": "run-as-root",
                 "repo": "magento2-prometheus-exporter",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "magento",
+                  "magento-extension",
+                  "magento-module",
+                  "magento2",
+                  "magento2-extension",
+                  "magento2-module",
+                  "metrics",
+                  "prometheus",
+                  "prometheus-exporter",
+                  "prometheus-metrics"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -676,12 +1148,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 module to automatically flush the cache whenever you save something in the System Configuration",
+                "homepage": null,
                 "id": 80286161,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-09-27T10:29:25Z",
+                "open_issues": 1,
                 "owner": "yireo",
                 "repo": "Yireo_AutoFlushCache",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "magento2-module"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -692,12 +1171,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 Environment Variable Component - Implementing Symfony Dotenv",
+                "homepage": null,
                 "id": 243586633,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-02-12T12:24:23Z",
+                "open_issues": 0,
                 "owner": "zepgram",
                 "repo": "magento-dotenv",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "environment-variables",
+                  "magento-dotenv",
+                  "magento2",
+                  "symfony-dotenv"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -708,12 +1197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provide a module to industrialize API REST request with dependency injection using Guzzle library",
+                "homepage": null,
                 "id": 424770404,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-03-04T14:37:36Z",
+                "open_issues": 0,
                 "owner": "zepgram",
                 "repo": "module-rest",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -724,12 +1218,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Magento library to build AJAX-driven forms with ease. And they perform very well too!",
+                "homepage": "https://loki-extensions.com/docs/components",
                 "id": 918140239,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-28T12:45:15Z",
+                "open_issues": 0,
                 "owner": "LokiExtensions",
                 "repo": "Loki_Components",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "ajax",
+                  "magento",
+                  "magento2",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             }
@@ -747,12 +1251,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The PHP deployment tool with support for popular frameworks out of the box",
+                "homepage": "https://deployer.org",
                 "id": 11340559,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:50:06Z",
+                "open_issues": 18,
                 "owner": "deployphp",
                 "repo": "deployer",
-                "stars": 11099
+                "stars": 11100,
+                "topics": [
+                  "deploy",
+                  "deployment",
+                  "php",
+                  "provision",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -763,12 +1278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 223035548,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-08-26T13:56:45Z",
+                "open_issues": 19,
                 "owner": "extdn",
                 "repo": "github-actions-m2",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -779,12 +1299,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.",
+                "homepage": null,
                 "id": 1063117795,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-23T10:33:09Z",
+                "open_issues": 2,
                 "owner": "crealoz",
                 "repo": "easyaudit-cli",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "code-analyzer",
+                  "code-quality",
+                  "magento",
+                  "magento2",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             }
@@ -802,12 +1333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deutsches Sprachpaket für Magento 2 Community Edition",
+                "homepage": null,
                 "id": 49491362,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-03-19T19:59:54Z",
+                "open_issues": 8,
                 "owner": "splendidinternet",
                 "repo": "Magento2_German_LocalePack_de_DE",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -818,12 +1354,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Polish locale package for Magento 2",
+                "homepage": null,
                 "id": 49233518,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2024-10-15T14:06:22Z",
+                "open_issues": 0,
                 "owner": "SnowdogApps",
                 "repo": "magento2-pl_pl",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "i18n",
+                  "magento",
+                  "magento2",
+                  "magento2-language"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -834,12 +1380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 Italian Language Pack is special gift for Magento 2 Community Edition. The data of the translation is supplied by Magento 2 Translation Project of Crowdin site, on which you will contribute into the project and download the zip file to install on your own store. This knowledge base will include full of the clear guides that supports you to convert the default language (English) into Italian language on your entire store.",
+                "homepage": null,
                 "id": 73484159,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-03-21T07:45:37Z",
+                "open_issues": 18,
                 "owner": "mageplaza",
                 "repo": "magento-2-italian-language-pack",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -850,12 +1401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language package for nl_NL.",
+                "homepage": null,
                 "id": 180399868,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2025-05-05T22:00:03Z",
+                "open_issues": 3,
                 "owner": "magento-l10n",
                 "repo": "language-nl_NL",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -866,12 +1422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 Finnish Language Pack is the perfect guide so that you can enable Finnish on your magento 2 store. This translation is really necessary for everyone who are living in the Finland. Here is a step-by-step guide to install Finnish package and use it as the default language.",
+                "homepage": null,
                 "id": 73484087,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-10-31T10:38:14Z",
+                "open_issues": 3,
                 "owner": "mageplaza",
                 "repo": "magento-2-finnish-language-pack",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             }
@@ -889,12 +1450,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smile ElasticSuite - Magento 2 merchandising and search engine built on ElasticSearch",
+                "homepage": "https://elasticsuite.io",
                 "id": 54476408,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-08-28T08:29:29Z",
+                "open_issues": 129,
                 "owner": "Smile-SA",
                 "repo": "elasticsuite",
-                "stars": 803
+                "stars": 803,
+                "topics": [
+                  "autocomplete",
+                  "elasticsearch",
+                  "facets",
+                  "magento",
+                  "magento2",
+                  "merchandising",
+                  "module",
+                  "search",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -905,12 +1481,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Algolia Search integration for Magento 2 - compatible with versions from 2.3.x to 2.4.x",
+                "homepage": "https://www.algolia.com/solutions/magento/",
                 "id": 54131069,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T14:49:23Z",
+                "open_issues": 2,
                 "owner": "algolia",
                 "repo": "algoliasearch-magento-2",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "algolia",
+                  "algolia-search",
+                  "magento-algoliasearch",
+                  "magento2",
+                  "magento2-extension",
+                  "php",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -921,12 +1510,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AvS_FastSimpleImport for Magento 2",
+                "homepage": null,
                 "id": 50232788,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-18T13:51:06Z",
+                "open_issues": 37,
                 "owner": "firegento",
                 "repo": "FireGento_FastSimpleImport2",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "magento",
+                  "magento2-extension"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -937,12 +1534,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Module to disable OpenSearch/Elasticsearch in Magento2. Disable also fulltext indexing for category search.",
+                "homepage": null,
                 "id": 365550096,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-05-16T19:00:34Z",
+                "open_issues": 1,
                 "owner": "zepgram",
                 "repo": "module-disable-search-engine",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "composer",
+                  "disable",
+                  "elasticsearch",
+                  "fulltext-search",
+                  "headless",
+                  "magento2",
+                  "magento2-module",
+                  "opensearch",
+                  "search-engine",
+                  "uninstall"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -953,12 +1566,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.",
+                "homepage": "https://demo-meilisearch.walkwizus.com",
                 "id": 1005439139,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-08-22T12:56:42Z",
+                "open_issues": 3,
                 "owner": "walkwizus",
                 "repo": "magento2-module-meilisearch",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "magento",
+                  "magento2",
+                  "magento2-module",
+                  "meilisearch",
+                  "search",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -969,12 +1594,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing — all Hyva-native and CSP-compatible.",
+                "homepage": "https://github.com/run-as-root/Typesense-Magento-2#readme",
                 "id": 1190395089,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-08T09:13:02Z",
+                "open_issues": 0,
                 "owner": "run-as-root",
                 "repo": "Typesense-Magento-2",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "ecommerce",
+                  "hyva",
+                  "mage-os",
+                  "magento",
+                  "magento2",
+                  "magento2-module",
+                  "merchandising",
+                  "php",
+                  "search",
+                  "typesense"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             }
@@ -992,12 +1633,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create a blog on Magento, generate blog posts with AI, choose your design anad improve SEO all from one place with the best Magento 2 Blog Extension on the market.",
+                "homepage": "https://magefan.com/magento2-blog-extension",
                 "id": 46378428,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T12:39:17Z",
+                "open_issues": 0,
                 "owner": "magefan",
                 "repo": "module-blog",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "magefan-blog",
+                  "magefan-extension",
+                  "magento",
+                  "magento-2",
+                  "magento-2-blog",
+                  "magento-2-blog-extension",
+                  "magento-2-extension",
+                  "magento-2-module",
+                  "magento-extension",
+                  "magento-module",
+                  "magento2-blog-extension",
+                  "magento2-extension"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1008,12 +1667,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 GDPR module is a must have extension for the largest e-commerce CMS used in the world. The module helps to be GDPR compliant. Actually it allows the customers to erase, or export their personal data. As a merchant you have powerful tools to customize the extension capabilities and apply the finest privacy rules.",
+                "homepage": "https://opengento.fr/magento2-gdpr",
                 "id": 135822906,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-07-23T14:36:16Z",
+                "open_issues": 8,
                 "owner": "opengento",
                 "repo": "magento2-gdpr",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "anonymization",
+                  "erasure",
+                  "gdpr",
+                  "magento",
+                  "magento-2",
+                  "magento-2-extension",
+                  "magento2",
+                  "magento2-extension",
+                  "magento2-module",
+                  "privacy",
+                  "rgpd"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1024,12 +1700,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 Blog Extension is a better blog extension for Magento 2 platform. These include all useful features of Wordpress CMS",
+                "homepage": "https://www.mageplaza.com/magento-2-blog-extension/",
                 "id": 57097263,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-11T03:55:20Z",
+                "open_issues": 24,
                 "owner": "mageplaza",
                 "repo": "magento-2-blog",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "magento-admin",
+                  "magento-blog",
+                  "magento-marketplace",
+                  "magento2",
+                  "magento2-blog",
+                  "magento2-blog-extension",
+                  "magento2-extension",
+                  "magento2-extension-free",
+                  "magento2-module",
+                  "magento2-project",
+                  "seo"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1040,12 +1733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.",
+                "homepage": null,
                 "id": 1139927160,
                 "language": "Shell",
+                "license": "OSL-3.0",
                 "last_commit": "2026-07-31T07:52:06Z",
+                "open_issues": 4,
                 "owner": "hyva-themes",
                 "repo": "hyva-ai-tools",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1056,12 +1754,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.",
+                "homepage": "https://github.com/run-as-root/magento-2-seeder",
                 "id": 1210378898,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-04-24T08:02:05Z",
+                "open_issues": 0,
                 "owner": "run-as-root",
                 "repo": "magento-2-seeder",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "dev-tools",
+                  "faker",
+                  "fixtures",
+                  "mage-os",
+                  "magento",
+                  "magento-module",
+                  "magento2",
+                  "php",
+                  "seeder",
+                  "seeding",
+                  "test-data"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1072,12 +1787,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Magento Page Builder support for CMS Widgets",
+                "homepage": null,
                 "id": 982388159,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-10T13:34:25Z",
+                "open_issues": 2,
                 "owner": "mage-os",
                 "repo": "module-page-builder-widget",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "admin",
+                  "adobecommerce",
+                  "ecommerce",
+                  "extension",
+                  "mage-os",
+                  "mage-os-lab",
+                  "magento",
+                  "magento2",
+                  "page-builder"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             }
@@ -1095,12 +1825,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Tag Manager is a user-friendly, yet powerful and cost-effective solution that is a must-have integration for every Magento store. It simplifies the process of adding and managing third-party JavaScript tags. With dozens of custom events and hundreds of data points our extensions the #1 GTM solution for Magento.",
+                "homepage": "https://www.magepal.com/google-tag-manager.html",
                 "id": 49925786,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-05-15T16:57:25Z",
+                "open_issues": 15,
                 "owner": "magepal",
                 "repo": "magento2-google-tag-manager",
-                "stars": 265
+                "stars": 265,
+                "topics": [
+                  "adobe-commerce",
+                  "adwords",
+                  "analytics",
+                  "bing-uet",
+                  "ecommerce",
+                  "enhanced-ecommerce",
+                  "facebook-pixel",
+                  "google-analytics",
+                  "google-analytics-4",
+                  "google-tag-manager",
+                  "google-universal-analytics",
+                  "gtm",
+                  "magento",
+                  "magento-2",
+                  "magento2",
+                  "remarketing",
+                  "tag-manager",
+                  "tagmanager",
+                  "tracking-pixels",
+                  "web-analytics"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1111,12 +1867,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 SEO extension will do perfectly for your better SEO. This is a bundle of outstanding features that are auto-active when you install it from Mageplaza without any code modifications. It is also friendly with your store if you need to insert meta keywords and meta descriptions for your product.",
+                "homepage": "https://www.mageplaza.com/magento-2-seo-extension/",
                 "id": 56050184,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T04:06:35Z",
+                "open_issues": 5,
                 "owner": "mageplaza",
                 "repo": "magento-2-seo",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "breadcrumbs",
+                  "cms-pages",
+                  "forum",
+                  "htaccess",
+                  "html-sitemap",
+                  "magento",
+                  "magento2",
+                  "magento2-extension",
+                  "magento2-extension-free",
+                  "mageplaza-seo",
+                  "meta",
+                  "meta-tags",
+                  "robot",
+                  "schema",
+                  "search-engine",
+                  "seo",
+                  "seo-extension"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1127,12 +1906,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.",
+                "homepage": null,
                 "id": 1154259479,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-08-12T16:29:14Z",
+                "open_issues": 10,
                 "owner": "Zwernemann",
                 "repo": "magento2-withdrawl",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "consumer-rights",
+                  "ecommerce",
+                  "eu-compliance",
+                  "magento2",
+                  "magento2-module",
+                  "magento2-module-free",
+                  "widerruf",
+                  "widerrufsbutton",
+                  "withdrawal",
+                  "withdrawal-button"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1143,12 +1938,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.",
+                "homepage": null,
                 "id": 1116132883,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-08-28T16:52:23Z",
+                "open_issues": 1,
                 "owner": "mage-os-lab",
                 "repo": "module-blog",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "blog",
+                  "ecommerce",
+                  "graphql",
+                  "hyva",
+                  "mage-os",
+                  "magento",
+                  "magento-extension",
+                  "magento2",
+                  "magento2-module",
+                  "open-source",
+                  "php",
+                  "rss",
+                  "seo",
+                  "sitemap"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             }
@@ -1166,12 +1981,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides powerful menu editor to replace category based menus in Magento 2",
+                "homepage": null,
                 "id": 93260571,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T15:16:12Z",
+                "open_issues": 28,
                 "owner": "SnowdogApps",
                 "repo": "magento2-menu",
-                "stars": 332
+                "stars": 332,
+                "topics": [
+                  "extenstions",
+                  "hacktoberfest",
+                  "magento2",
+                  "magento2-module",
+                  "menu",
+                  "menus",
+                  "snowdog-hyva"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1182,12 +2010,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configure Magento 2 to send email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and many other SMTP (Simple Mail Transfer Protocol) servers",
+                "homepage": "https://www.magepal.com",
                 "id": 46384231,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-05-13T16:44:38Z",
+                "open_issues": 7,
                 "owner": "magepal",
                 "repo": "magento2-gmail-smtp-app",
-                "stars": 327
+                "stars": 327,
+                "topics": [
+                  "adobe-commerce",
+                  "amazon",
+                  "amazon-ses",
+                  "custom-smtp",
+                  "elastic-email",
+                  "email",
+                  "gmail",
+                  "gmail-smtp",
+                  "magento",
+                  "magento-2",
+                  "magento-smtp-extension",
+                  "magento2-extension",
+                  "mailchimp",
+                  "mailgun",
+                  "mandrill",
+                  "office365",
+                  "sendgrid",
+                  "ses",
+                  "smtp",
+                  "transactional-emails"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1198,12 +2052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3",
+                "homepage": null,
                 "id": 219474434,
                 "language": "PHP",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-01-21T08:11:55Z",
+                "open_issues": 20,
                 "owner": "idhlagency",
                 "repo": "magento2-disable-stock-reservation",
-                "stars": 231
+                "stars": 231,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1214,12 +2073,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 module to log to Sentry",
+                "homepage": null,
                 "id": 124255193,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-21T08:40:50Z",
+                "open_issues": 15,
                 "owner": "justbetter",
                 "repo": "magento2-sentry",
-                "stars": 187
+                "stars": 187,
+                "topics": [
+                  "magento2",
+                  "magento2-extension",
+                  "php",
+                  "sentry"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1230,12 +2099,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.",
+                "homepage": "https://hyva-themes.github.io/magento2-hyva-admin/",
                 "id": 325358153,
                 "language": "CSS",
+                "license": "OSL-3.0",
                 "last_commit": "2026-06-26T12:22:46Z",
+                "open_issues": 34,
                 "owner": "hyva-themes",
                 "repo": "magento2-hyva-admin",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "magento2-module"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1246,12 +2122,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Force Customer Login Module for Magento 2",
+                "homepage": "https://marketplace.magento.com/bitexpert-magento2-force-customer-login.html",
                 "id": 53792961,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T08:49:45Z",
+                "open_issues": 5,
                 "owner": "bitExpert",
                 "repo": "magento2-force-login",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "force-login",
+                  "magento2",
+                  "magento2-extension",
+                  "magento2-module",
+                  "php",
+                  "whitelist-login"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1262,12 +2150,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 Extension to cleanup admin menu and Store > Configuration area by arranging third party extension items.",
+                "homepage": "https://redchamps.com",
                 "id": 230410371,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-04-16T16:51:08Z",
+                "open_issues": 0,
                 "owner": "redchamps",
                 "repo": "clean-admin-menu",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "magento2",
+                  "magento2-extension",
+                  "magento2-extension-free",
+                  "magento2-module"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1278,12 +2176,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AvS_FastSimpleImport for Magento 2",
+                "homepage": null,
                 "id": 50232788,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-18T13:51:06Z",
+                "open_issues": 37,
                 "owner": "firegento",
                 "repo": "FireGento_FastSimpleImport2",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "magento",
+                  "magento2-extension"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1294,12 +2200,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a library that provides generic functionalities for the implementation of imports. In addition to maximum performance and optimized memory consumption, Pacemaker can also be used to implement imports in distributed scenarios that place the highest demands on speed and stability. ",
+                "homepage": "https://pacemaker.techdivision.com",
                 "id": 75958387,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-16T13:51:32Z",
+                "open_issues": 12,
                 "owner": "techdivision",
                 "repo": "import",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "attributes",
+                  "categories",
+                  "csv",
+                  "import",
+                  "magento",
+                  "pacemaker",
+                  "products"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1310,12 +2229,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Checkout test for Magento 2",
+                "homepage": null,
                 "id": 66253147,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2024-10-24T12:04:51Z",
+                "open_issues": 3,
                 "owner": "yireo",
                 "repo": "Yireo_CheckoutTester2",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "magento2-module"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1326,12 +2252,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quickly and easily preview and test your Magento 2 order confirmation page, without hacks or spending time placing new order each time",
+                "homepage": "https://www.magepal.com",
                 "id": 111220981,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-05-15T16:55:52Z",
+                "open_issues": 3,
                 "owner": "magepal",
                 "repo": "magento2-preview-checkout-success-page",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "adobe-commerce",
+                  "adobe-commerce-cl",
+                  "checkout",
+                  "checkout-page",
+                  "magento",
+                  "magento-2",
+                  "magento-checkout",
+                  "magento-extension",
+                  "magento2",
+                  "magento2-checkout",
+                  "magento2-extension",
+                  "magento2-module",
+                  "onepagecheckout",
+                  "previewer",
+                  "qa",
+                  "success"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1342,12 +2290,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guest to Customer for Magento2 - Quickly and easily convert existing guest checkout customers to registered customers.",
+                "homepage": "http://www.magepal.com",
                 "id": 116302067,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-05-15T16:59:20Z",
+                "open_issues": 5,
                 "owner": "magepal",
                 "repo": "magento2-guest-to-customer",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "adobe-commerce",
+                  "adobe-commerce-cloud",
+                  "customer-account",
+                  "dashboard",
+                  "magento",
+                  "magento-2",
+                  "magento-extension",
+                  "magento2",
+                  "magento2-extension",
+                  "magento2-extension-free",
+                  "magento2-module",
+                  "php",
+                  "registered-customers"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1358,12 +2325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 Module Experius Page Not Found 404. This module saves all 404 url to a database table",
+                "homepage": null,
                 "id": 95111798,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-26T14:12:58Z",
+                "open_issues": 14,
                 "owner": "experius",
                 "repo": "Magento-2-Module-PageNotFound",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1374,12 +2346,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reset UI Bookmarks allows admin users to reset their own UI bookmarks such as state of filters, column positions and applied sorting ( e.g Sales > Orders ).",
+                "homepage": null,
                 "id": 145196587,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-04T09:12:28Z",
+                "open_issues": 1,
                 "owner": "magenizr",
                 "repo": "Magenizr_ResetUiBookmarks",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "magento2",
+                  "magento2-admin",
+                  "magento2-extension",
+                  "magento2-extension-free",
+                  "magento2-grid",
+                  "magento2-module"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1390,12 +2374,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "M137 Admin Theme for Magento/Mage-OS",
+                "homepage": null,
                 "id": 958826243,
                 "language": "Less",
+                "license": "MIT",
                 "last_commit": "2026-08-10T13:34:51Z",
+                "open_issues": 13,
                 "owner": "mage-os",
                 "repo": "theme-adminhtml-m137",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "admin",
+                  "adobecommerce",
+                  "ecommerce",
+                  "mage-os",
+                  "mage-os-lab",
+                  "magento",
+                  "magento2",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1406,12 +2404,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 extension for enhanced admin product navigation for merchants who want to simplify the process of navigating complex and custom product relationships. ",
+                "homepage": null,
                 "id": 892826208,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-02-27T13:55:00Z",
+                "open_issues": 0,
                 "owner": "elninotech",
                 "repo": "ElNino_ProductLinksNavigator",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "hacktoberfest",
+                  "magento",
+                  "magento2",
+                  "magento2-admin",
+                  "magento2-extension",
+                  "magento2-extension-free",
+                  "magento2-module"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             }
@@ -1429,12 +2440,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAYONE Payment Extension for Magento 2",
+                "homepage": null,
                 "id": 58461435,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-19T07:01:57Z",
+                "open_issues": 7,
                 "owner": "PAYONE-GmbH",
                 "repo": "magento-2",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "magento",
+                  "magento2",
+                  "magento2-extension",
+                  "payment-methods",
+                  "payment-processing",
+                  "payment-service",
+                  "payment-solution",
+                  "payone"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             }
@@ -1452,12 +2477,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cron Job Manager for Magento 2",
+                "homepage": "https://packagist.org/packages/ethanyehuda/magento2-cronjobmanager",
                 "id": 100189472,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-07-21T13:46:12Z",
+                "open_issues": 13,
                 "owner": "Ethan3600",
                 "repo": "magento2-CronjobManager",
-                "stars": 365
+                "stars": 365,
+                "topics": [
+                  "cron-jobs",
+                  "cronjobs",
+                  "magento2",
+                  "magento2-extension",
+                  "scheduling",
+                  "ui-components"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1468,12 +2505,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Module for integrating Fastly CDN with Magento 2 installations",
+                "homepage": null,
                 "id": 52321200,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-17T00:09:12Z",
+                "open_issues": 38,
                 "owner": "fastly",
                 "repo": "fastly-magento2",
-                "stars": 156
+                "stars": 156,
+                "topics": [
+                  "fastly-oss-tier1",
+                  "magento",
+                  "magento-backend",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1484,12 +2531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "New interceptors approach for Magento 2",
+                "homepage": null,
                 "id": 185754227,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-04-28T12:42:33Z",
+                "open_issues": 6,
                 "owner": "creatuity",
                 "repo": "magento2-interceptors",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1500,12 +2552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 media information and cleanup",
+                "homepage": null,
                 "id": 70912819,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2024-02-07T08:38:14Z",
+                "open_issues": 8,
                 "owner": "sivaschenko",
                 "repo": "magento2-clean-media",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1516,12 +2573,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A faster drop in replacement for bin/magento cache:clean with file watcher",
+                "homepage": null,
                 "id": 1012492150,
                 "language": "Clojure",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-10T13:36:11Z",
+                "open_issues": 2,
                 "owner": "mage-os",
                 "repo": "magento-cache-clean",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "adobecommerce",
+                  "cache-manager",
+                  "dev-utility",
+                  "mage-os",
+                  "magento",
+                  "magento2"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1532,12 +2601,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 2 module for ngrok.io service support",
+                "homepage": "https://shkoliar.com",
                 "id": 191258279,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-22T12:34:44Z",
+                "open_issues": 3,
                 "owner": "shkoliar",
                 "repo": "magento-ngrok",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "developer-tools",
+                  "development",
+                  "development-environment",
+                  "docker-ngrok",
+                  "local-development",
+                  "magento",
+                  "magento-2",
+                  "magento-2-extension",
+                  "magento-2-module",
+                  "magento-extension",
+                  "magento-module",
+                  "magento2",
+                  "magento2-extension",
+                  "magento2-module",
+                  "mit",
+                  "mit-license",
+                  "ngrok",
+                  "worksonmymachine"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1548,12 +2641,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bfcache, speculative loading, and view transitions for Magento",
+                "homepage": null,
                 "id": 1039845092,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-08-10T13:35:56Z",
+                "open_issues": 1,
                 "owner": "mage-os",
                 "repo": "module-theme-optimization",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "adobecommerce",
+                  "cwv",
+                  "ecommerce",
+                  "extension",
+                  "mage-os",
+                  "mage-os-lab",
+                  "magento",
+                  "magento2",
+                  "performance"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             }
@@ -1571,12 +2679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next-generation front-end for Magento 2",
+                "homepage": "https://scandipwa.com/?utm_source=github&utm_medium=readme&utm_campaign=general",
                 "id": 174561264,
                 "language": "TypeScript",
+                "license": "OSL-3.0",
                 "last_commit": "2024-07-15T13:53:56Z",
+                "open_issues": 535,
                 "owner": "scandipwa",
                 "repo": "scandipwa",
-                "stars": 548
+                "stars": 548,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1587,12 +2700,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.",
+                "homepage": "https://www.graphcommerce.org",
                 "id": 274976294,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-11T19:57:43Z",
+                "open_issues": 37,
                 "owner": "graphcommerce-org",
                 "repo": "graphcommerce",
-                "stars": 361
+                "stars": 361,
+                "topics": [
+                  "ecommerce",
+                  "graphql",
+                  "headless",
+                  "magento2",
+                  "pwa",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1603,12 +2729,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Magento theme built with Tailwind",
+                "homepage": "https://www.hyva.io",
                 "id": 1085667940,
                 "language": "HTML",
+                "license": "OSL-3.0",
                 "last_commit": "2026-08-20T12:51:01Z",
+                "open_issues": 0,
                 "owner": "hyva-themes",
                 "repo": "magento2-default-theme",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1619,12 +2750,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento Tailwind Theme companion module",
+                "homepage": "https://www.hyva.io",
                 "id": 1085668910,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-07-10T12:49:19Z",
+                "open_issues": 0,
                 "owner": "hyva-themes",
                 "repo": "magento2-theme-module",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1635,12 +2771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A strict CSP compatible Magento theme built with Tailwind and Alpine.js",
+                "homepage": "https://www.hyva.io",
                 "id": 1085653400,
                 "language": "HTML",
+                "license": "OSL-3.0",
                 "last_commit": "2026-07-10T12:58:44Z",
+                "open_issues": 0,
                 "owner": "hyva-themes",
                 "repo": "magento2-default-theme-csp",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             }
@@ -1662,12 +2803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHPStorm Magento 2 File Templates",
+            "homepage": null,
             "id": 96692821,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-21T18:56:04Z",
+            "open_issues": 2,
             "owner": "lfolco",
             "repo": "phpstorm-m2-filetemplates",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -1684,12 +2830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects",
+            "homepage": null,
             "id": 122631849,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2022-10-03T07:37:24Z",
+            "open_issues": 13,
             "owner": "jalogut",
             "repo": "magento2-deployer-plus",
-            "stars": 201
+            "stars": 201,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -1706,12 +2857,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tradução Magento 2 oficial para português do Brasil do site Crowdin",
+            "homepage": "https://packagist.org/packages/rafaelstz/traducao_magento2_pt_br",
             "id": 109490857,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-03-15T15:11:17Z",
+            "open_issues": 3,
             "owner": "rafaelstz",
             "repo": "traducao_magento2_pt_br",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "brasil",
+              "brazil",
+              "magento2",
+              "pt-br",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1722,12 +2884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento 2 - French (France) language pack (fr_fr)",
+            "homepage": "http://imaginaerum.github.io/magento2-language-fr-fr/",
             "id": 49590458,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-02-08T01:58:46Z",
+            "open_issues": 113,
             "owner": "Imaginaerum",
             "repo": "magento2-language-fr-fr",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1738,12 +2905,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento2 Turkish Translation / Magento2 Türkçe Çevirisi",
+            "homepage": null,
             "id": 48075959,
             "language": "PHP",
+            "license": "OSL-3.0",
             "last_commit": "2019-08-04T00:16:00Z",
+            "open_issues": 0,
             "owner": "hidonet",
             "repo": "magento2-language-tr_tr",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "language",
+              "magento",
+              "magento2",
+              "magento2-extension",
+              "magento2-language",
+              "magento2-module",
+              "magento2-turkish-translation"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1754,12 +2934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento 2 Spanish (Spain) language package - Paquete de idioma Español (España) para Magento 2",
+            "homepage": null,
             "id": 57335695,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-08-07T20:54:18Z",
+            "open_issues": 2,
             "owner": "eusonlito",
             "repo": "magento2-language-es_es",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1770,12 +2955,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇸🇮 Slovenian translations - language package for Magento 2",
+            "homepage": null,
             "id": 50219806,
             "language": "PHP",
+            "license": "OSL-3.0",
             "last_commit": "2018-05-27T21:50:53Z",
+            "open_issues": 6,
             "owner": "symfony-si",
             "repo": "magento2-sl-si",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "magento",
+              "magento2",
+              "magento2-extension"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1786,12 +2980,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Romanian language pack.",
+            "homepage": "https://www.eadesign.ro",
             "id": 78362649,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-29T13:00:25Z",
+            "open_issues": 4,
             "owner": "EaDesgin",
             "repo": "magento2-romanian-language-pack",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "magento-2",
+              "magento-language-pack",
+              "magento2",
+              "romanian",
+              "romanian-language-magento-2"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1802,12 +3007,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swiss-German language pack for Magento 2",
+            "homepage": null,
             "id": 54373061,
             "language": "PHP",
+            "license": "OSL-3.0",
             "last_commit": "2022-04-08T10:30:11Z",
+            "open_issues": 5,
             "owner": "staempfli",
             "repo": "magento2-language-de-ch",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "magento2",
+              "magento2-language"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1818,12 +3031,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In order to use the Korean Language on your Magento 2 store, it is time to start with Magento 2 Korean Language Pack in the set of informative documentations by Mageplaza. Magento 2 Korean Language Package is published by Magento 2 Translation Project at Crowdin, so all phrases will be replaced by the Korean language according to the contribution to that project. Please following up the guides in this post to convert the language with ease!",
+            "homepage": null,
             "id": 73484170,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-02-22T09:04:44Z",
+            "open_issues": 4,
             "owner": "mageplaza",
             "repo": "magento-2-korean-language-pack",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1834,12 +3052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento2 British Language Pack (en_GB)",
+            "homepage": null,
             "id": 93807279,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-04-28T14:43:01Z",
+            "open_issues": 0,
             "owner": "cubewebsites",
             "repo": "magento2-language-en-gb",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1850,12 +3073,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento2 Spanish (Argentina) language pack build from Crowdin community translation tool.",
+            "homepage": null,
             "id": 113752120,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-12-23T17:21:11Z",
+            "open_issues": 1,
             "owner": "SemExpert",
             "repo": "Magento2-language-es_ar",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1866,12 +3094,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basing on Magento 2 Translation Pack at Crowdin, Magento 2 Slovak Language Pack is buit by Mageplaza team to promote the performance of your storefront when you want to develop the own eCommerce business in the Slovakia market. Rather than the English language, you should consider Slovak language to apporach the domestic customers.",
+            "homepage": null,
             "id": 73484220,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-01-25T14:56:13Z",
+            "open_issues": 5,
             "owner": "mageplaza",
             "repo": "magento-2-slovak-language-pack",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -1888,12 +3121,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento 2 Module for creating PDF's based on wkhtmltopdf",
+            "homepage": "https://www.schmengler-se.de/en/2016/12/pdf-generation-in-magento-2/",
             "id": 75283650,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-09-16T12:01:24Z",
+            "open_issues": 4,
             "owner": "staempfli",
             "repo": "magento2-module-pdf",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "magento2",
+              "magento2-extension",
+              "pdf-generation",
+              "wkhtmltopdf"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -1910,12 +3153,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks.",
+            "homepage": null,
             "id": 233925514,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-05T20:17:49Z",
+            "open_issues": 2,
             "owner": "shkoliar",
             "repo": "magento-grid-colors",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "color-picker",
+              "colors",
+              "magento",
+              "magento-2",
+              "magento-extension",
+              "magento-grid",
+              "magento-module",
+              "magento-sales",
+              "magento2",
+              "magento2-extension",
+              "magento2-module",
+              "mit",
+              "mit-license"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1926,12 +3188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Magento 2 dashboard to display installed extensions. Read the blog post on some of the thinking behind it:",
+            "homepage": "https://store.fooman.co.nz/blog/mlau-2019-devexchange-extension-and-security-recap.html",
             "id": 171781201,
             "language": "PHP",
+            "license": null,
             "last_commit": "2022-03-23T10:19:03Z",
+            "open_issues": 2,
             "owner": "extdn",
             "repo": "extension-dashboard-m2",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1942,12 +3209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set a customer password with bin/magento.",
+            "homepage": null,
             "id": 100708932,
             "language": "PHP",
+            "license": null,
             "last_commit": "2022-06-15T09:11:55Z",
+            "open_issues": 2,
             "owner": "Vinai",
             "repo": "module-customer-password-command",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -1958,12 +3230,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content. This is for development purposes, e.g. save time to prepare test data and matching GDPR restrictions.",
+            "homepage": null,
             "id": 417574786,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-02T04:29:07Z",
+            "open_issues": 3,
             "owner": "hivecommerce",
             "repo": "magento2-content-fuzzyfyr",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -1980,12 +3257,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Stripe Payments for Magento 2",
+            "homepage": null,
             "id": 80884547,
             "language": "PHP",
+            "license": "OSL-3.0",
             "last_commit": "2018-12-18T12:07:29Z",
+            "open_issues": 12,
             "owner": "pmclain",
             "repo": "module-stripe",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "magento-extension",
+              "magento2",
+              "stripe",
+              "stripe-payment"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -2002,12 +3289,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preparation notes for Magento 2 Certified Professional Developer exam",
+            "homepage": null,
             "id": 126006633,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-15T09:48:29Z",
+            "open_issues": 4,
             "owner": "magento-notes",
             "repo": "magento2-exam-notes",
-            "stars": 698
+            "stars": 698,
+            "topics": [
+              "exam",
+              "magento-certified-developer",
+              "magento2",
+              "magento2-certification",
+              "study-guide"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -2018,12 +3316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources for the Magento 2 Certified Professional Front End Developer exam",
+            "homepage": null,
             "id": 166110363,
             "language": null,
+            "license": null,
             "last_commit": "2020-09-30T18:51:53Z",
+            "open_issues": 1,
             "owner": "fisheye-academy",
             "repo": "m2cpfed-training",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -2034,12 +3337,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preparation notes for Magento 2 Certified Professional Cloud Developer exam",
+            "homepage": null,
             "id": 176137914,
             "language": null,
+            "license": null,
             "last_commit": "2019-04-10T16:56:01Z",
+            "open_issues": 0,
             "owner": "magento-notes",
             "repo": "magento2-cloud-developer-notes",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "exam",
+              "magento-certified-cloud-developer",
+              "magento-certified-developer",
+              "magento2",
+              "magento2-certification",
+              "study-guide"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -2050,12 +3365,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚Magento 2 Certified Professional Developer Plus Exam",
+            "homepage": null,
             "id": 164934788,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2019-11-23T20:41:40Z",
+            "open_issues": 0,
             "owner": "roma-glushko",
             "repo": "magento2-dev-plus-exam",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "exam",
+              "exams",
+              "magento-certified-developer",
+              "magento2",
+              "magento2-certification",
+              "magento2-module",
+              "study-guide"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -2072,12 +3400,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+            "homepage": "http://www.magento.com",
             "id": 2884111,
             "language": "PHP",
+            "license": "OSL-3.0",
             "last_commit": "2026-08-28T11:11:43Z",
+            "open_issues": 2134,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12169
+            "stars": 12169,
+            "topics": [
+              "ecommerce",
+              "ecommerce-platform",
+              "hacktoberfest",
+              "magento",
+              "magento2",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -2088,12 +3428,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento Coding Standard",
+            "homepage": null,
             "id": 161527394,
             "language": "PHP",
+            "license": "OSL-3.0",
             "last_commit": "2026-08-18T08:49:52Z",
+            "open_issues": 96,
             "owner": "magento",
             "repo": "magento-coding-standard",
-            "stars": 375
+            "stars": 375,
+            "topics": [
+              "coding-standard",
+              "magento",
+              "php",
+              "php-codesniffer"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -2104,12 +3454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magento Data Migration Tool",
+            "homepage": "https://devdocs.magento.com/guides/v2.3/migration/bk-migration-guide.html",
             "id": 35620257,
             "language": "PHP",
+            "license": "OSL-3.0",
             "last_commit": "2025-06-03T16:09:29Z",
+            "open_issues": 125,
             "owner": "magento",
             "repo": "data-migration-tool",
-            "stars": 339
+            "stars": 339,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -2120,12 +3475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A place where Magento architectural discussions happen",
+            "homepage": null,
             "id": 128087944,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-21T19:23:53Z",
+            "open_issues": 66,
             "owner": "magento",
             "repo": "architecture",
-            "stars": 278
+            "stars": 278,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -2142,12 +3502,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+            "homepage": null,
             "id": 14705691,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2026-07-13T19:44:57Z",
+            "open_issues": 85,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32671
+            "stars": 32671,
+            "topics": [
+              "awesome",
+              "awesome-lists",
+              "php",
+              "php-applications",
+              "php-framework",
+              "php-installation",
+              "php-library"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         },
@@ -2158,12 +3531,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of useful Magento technical resources",
+            "homepage": null,
             "id": 29300306,
             "language": "PHP",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-22T10:06:29Z",
+            "open_issues": 2,
             "owner": "aleron75",
             "repo": "mageres",
-            "stars": 1020
+            "stars": 1020,
+            "topics": [
+              "awesome-list",
+              "magento",
+              "magento2"
+            ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -2180,12 +3562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Magento ecosystem",
+            "homepage": null,
             "id": 41964138,
             "language": null,
+            "license": null,
             "last_commit": "2021-07-06T07:20:20Z",
+            "open_issues": 0,
             "owner": "sunel",
             "repo": "awesome-magento",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
         }
@@ -2194,15 +3581,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:08:18.281Z",
+    "last_updated": "2026-08-29T04:32:32.506Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
+      "homepage": null,
       "id": 80614782,
       "language": "PHP",
+      "license": "MIT",
       "last_commit": "2026-08-24T06:16:19Z",
+      "open_issues": 8,
       "owner": "run-as-root",
       "repo": "awesome-magento2",
-      "stars": 1175
+      "stars": 1175,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "collection",
+        "documentation",
+        "documentation-tool",
+        "magento-2",
+        "magento-extension",
+        "magento2",
+        "packages",
+        "php"
+      ]
     },
     "original_repository_sha": "cb60808aaa923a51284a377f1d26679b7cd714b1",
     "enhanced_repository": "enhansome/enhansome-magento2",
