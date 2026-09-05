@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 503010,
+            "stars": 503315,
             "topics": [
               "awesome",
               "awesome-list",
@@ -182,7 +182,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-08-04T15:14:22Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "nunomaduro",
             "repo": "phpinsights",
             "stars": 5631,
@@ -216,8 +216,8 @@
             "id": 80669528,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T16:31:37Z",
-            "open_issues": 167,
+            "last_commit": "2026-09-05T15:34:40Z",
+            "open_issues": 169,
             "owner": "ddev",
             "repo": "ddev",
             "stars": 3831,
@@ -1260,7 +1260,7 @@
                 "open_issues": 18,
                 "owner": "deployphp",
                 "repo": "deployer",
-                "stars": 11105,
+                "stars": 11106,
                 "topics": [
                   "deploy",
                   "deployment",
@@ -3406,7 +3406,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-04T17:56:32Z",
-            "open_issues": 2168,
+            "open_issues": 2177,
             "owner": "magento",
             "repo": "magento2",
             "stars": 12178,
@@ -3511,7 +3511,7 @@
             "open_issues": 85,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32677,
+            "stars": 32676,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:59:43.152Z",
+    "last_updated": "2026-09-05T22:49:41.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
