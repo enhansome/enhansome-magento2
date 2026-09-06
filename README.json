@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 503315,
+            "stars": 503659,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 10,
             "owner": "run-as-root",
             "repo": "awesome-magento2",
-            "stars": 1174,
+            "stars": 1173,
             "topics": [
               "awesome",
               "awesome-list",
@@ -84,7 +84,7 @@
             "open_issues": 52,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10940,
+            "stars": 10941,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -185,7 +185,7 @@
             "open_issues": 74,
             "owner": "nunomaduro",
             "repo": "phpinsights",
-            "stars": 5631,
+            "stars": 5632,
             "topics": [
               "analytics",
               "architecture",
@@ -216,7 +216,7 @@
             "id": 80669528,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T15:34:40Z",
+            "last_commit": "2026-09-06T06:29:04Z",
             "open_issues": 169,
             "owner": "ddev",
             "repo": "ddev",
@@ -286,8 +286,8 @@
             "id": 25814103,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T21:32:40Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-06T18:36:21Z",
+            "open_issues": 19,
             "owner": "netz98",
             "repo": "n98-magerun2",
             "stars": 925,
@@ -2209,7 +2209,7 @@
                 "open_issues": 12,
                 "owner": "techdivision",
                 "repo": "import",
-                "stars": 128,
+                "stars": 127,
                 "topics": [
                   "attributes",
                   "categories",
@@ -3406,7 +3406,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-04T17:56:32Z",
-            "open_issues": 2177,
+            "open_issues": 2179,
             "owner": "magento",
             "repo": "magento2",
             "stars": 12178,
@@ -3508,10 +3508,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-07-13T19:44:57Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32676,
+            "stars": 32678,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -3537,7 +3537,7 @@
             "language": "PHP",
             "license": "CC0-1.0",
             "last_commit": "2026-09-01T07:43:02Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "aleron75",
             "repo": "mageres",
             "stars": 1016,
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:49:41.650Z",
+    "last_updated": "2026-09-06T22:51:38.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
@@ -3593,7 +3593,7 @@
       "open_issues": 10,
       "owner": "run-as-root",
       "repo": "awesome-magento2",
-      "stars": 1174,
+      "stars": 1173,
       "topics": [
         "awesome",
         "awesome-list",
