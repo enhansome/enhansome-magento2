@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 504525,
+            "stars": 504828,
             "topics": [
               "awesome",
               "awesome-list",
@@ -84,7 +84,7 @@
             "open_issues": 52,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10939,
+            "stars": 10940,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -147,7 +147,7 @@
             "open_issues": 0,
             "owner": "mage-obsidian",
             "repo": "module-modern-frontend",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "ecommerce",
               "esm",
@@ -216,11 +216,11 @@
             "id": 80669528,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T21:43:21Z",
-            "open_issues": 165,
+            "last_commit": "2026-09-10T06:32:34Z",
+            "open_issues": 166,
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3835,
+            "stars": 3838,
             "topics": [
               "backdrop",
               "craftcms",
@@ -886,7 +886,7 @@
                 "id": 414967404,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T18:13:47Z",
+                "last_commit": "2026-09-10T20:25:18Z",
                 "open_issues": 8,
                 "owner": "magewirephp",
                 "repo": "magewire",
@@ -1223,7 +1223,7 @@
                 "id": 918140239,
                 "language": "PHP",
                 "license": "OSL-3.0",
-                "last_commit": "2026-09-09T10:44:41Z",
+                "last_commit": "2026-09-10T18:33:37Z",
                 "open_issues": 0,
                 "owner": "LokiExtensions",
                 "repo": "Loki_Components",
@@ -1260,7 +1260,7 @@
                 "open_issues": 18,
                 "owner": "deployphp",
                 "repo": "deployer",
-                "stars": 11105,
+                "stars": 11107,
                 "topics": [
                   "deploy",
                   "deployment",
@@ -1676,7 +1676,7 @@
                 "open_issues": 8,
                 "owner": "opengento",
                 "repo": "magento2-gdpr",
-                "stars": 146,
+                "stars": 147,
                 "topics": [
                   "anonymization",
                   "erasure",
@@ -3405,11 +3405,11 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-09T19:52:40Z",
-            "open_issues": 2178,
+            "last_commit": "2026-09-10T12:53:11Z",
+            "open_issues": 2179,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12184,
+            "stars": 12185,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -3511,7 +3511,7 @@
             "open_issues": 89,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32682,
+            "stars": 32687,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:09:20.244Z",
+    "last_updated": "2026-09-10T23:05:31.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
