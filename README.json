@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 505148,
+            "stars": 505447,
             "topics": [
               "awesome",
               "awesome-list",
@@ -84,7 +84,7 @@
             "open_issues": 52,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10940,
+            "stars": 10941,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -216,8 +216,8 @@
             "id": 80669528,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T22:42:24Z",
-            "open_issues": 162,
+            "last_commit": "2026-09-12T15:24:28Z",
+            "open_issues": 163,
             "owner": "ddev",
             "repo": "ddev",
             "stars": 3839,
@@ -890,7 +890,7 @@
                 "open_issues": 9,
                 "owner": "magewirephp",
                 "repo": "magewire",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "magento2",
                   "magento2-module"
@@ -3406,7 +3406,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-10T12:53:11Z",
-            "open_issues": 2179,
+            "open_issues": 2180,
             "owner": "magento",
             "repo": "magento2",
             "stars": 12185,
@@ -3511,7 +3511,7 @@
             "open_issues": 90,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32689,
+            "stars": 32692,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:11:22.211Z",
+    "last_updated": "2026-09-12T22:58:40.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
