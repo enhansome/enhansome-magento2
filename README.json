@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 505447,
+            "stars": 505758,
             "topics": [
               "awesome",
               "awesome-list",
@@ -216,11 +216,11 @@
             "id": 80669528,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T15:24:28Z",
-            "open_issues": 163,
+            "last_commit": "2026-09-13T21:25:13Z",
+            "open_issues": 161,
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3839,
+            "stars": 3840,
             "topics": [
               "backdrop",
               "craftcms",
@@ -542,7 +542,7 @@
             "open_issues": 2,
             "owner": "jellesiderius",
             "repo": "mage-db-sync",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "development-environment",
               "import",
@@ -1260,7 +1260,7 @@
                 "open_issues": 18,
                 "owner": "deployphp",
                 "repo": "deployer",
-                "stars": 11107,
+                "stars": 11105,
                 "topics": [
                   "deploy",
                   "deployment",
@@ -1283,7 +1283,7 @@
                 "id": 223035548,
                 "language": "Shell",
                 "license": null,
-                "last_commit": "2026-09-03T08:16:23Z",
+                "last_commit": "2026-09-13T07:00:47Z",
                 "open_issues": 19,
                 "owner": "extdn",
                 "repo": "github-actions-m2",
@@ -1308,7 +1308,7 @@
                 "open_issues": 2,
                 "owner": "crealoz",
                 "repo": "easyaudit-cli",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "code-analyzer",
                   "code-quality",
@@ -1986,7 +1986,7 @@
                 "id": 93260571,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-19T15:16:12Z",
+                "last_commit": "2026-09-13T07:15:15Z",
                 "open_issues": 32,
                 "owner": "SnowdogApps",
                 "repo": "magento2-menu",
@@ -3406,10 +3406,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-10T12:53:11Z",
-            "open_issues": 2180,
+            "open_issues": 2182,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12185,
+            "stars": 12188,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -3511,7 +3511,7 @@
             "open_issues": 90,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32692,
+            "stars": 32697,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -3537,7 +3537,7 @@
             "language": "PHP",
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T07:32:28Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "aleron75",
             "repo": "mageres",
             "stars": 1016,
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:58:40.138Z",
+    "last_updated": "2026-09-13T23:05:12.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
