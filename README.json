@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 506064,
+            "stars": 506394,
             "topics": [
               "awesome",
               "awesome-list",
@@ -84,7 +84,7 @@
             "open_issues": 52,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10941,
+            "stars": 10942,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -216,11 +216,11 @@
             "id": 80669528,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T22:16:14Z",
-            "open_issues": 163,
+            "last_commit": "2026-09-15T06:33:59Z",
+            "open_issues": 165,
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3867,
+            "stars": 3877,
             "topics": [
               "backdrop",
               "craftcms",
@@ -261,7 +261,7 @@
             "open_issues": 2,
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2863,
+            "stars": 2864,
             "topics": [
               "docker",
               "docker-compose",
@@ -886,7 +886,7 @@
                 "id": 414967404,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T12:27:41Z",
+                "last_commit": "2026-09-15T13:03:34Z",
                 "open_issues": 9,
                 "owner": "magewirephp",
                 "repo": "magewire",
@@ -1260,7 +1260,7 @@
                 "open_issues": 18,
                 "owner": "deployphp",
                 "repo": "deployer",
-                "stars": 11104,
+                "stars": 11105,
                 "topics": [
                   "deploy",
                   "deployment",
@@ -1986,7 +1986,7 @@
                 "id": 93260571,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T17:41:02Z",
+                "last_commit": "2026-09-15T16:34:58Z",
                 "open_issues": 32,
                 "owner": "SnowdogApps",
                 "repo": "magento2-menu",
@@ -2341,6 +2341,36 @@
             },
             {
               "node_type": "item",
+              "title": "theme-adminhtml-m137",
+              "description": "🫡 - M137 Admin Theme for Magento/Mage-OS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "M137 Admin Theme for Magento/Mage-OS",
+                "homepage": null,
+                "id": 958826243,
+                "language": "Less",
+                "license": "MIT",
+                "last_commit": "2026-08-10T13:34:51Z",
+                "open_issues": 13,
+                "owner": "mage-os",
+                "repo": "theme-adminhtml-m137",
+                "stars": 39,
+                "topics": [
+                  "admin",
+                  "adobecommerce",
+                  "ecommerce",
+                  "mage-os",
+                  "mage-os-lab",
+                  "magento",
+                  "magento2",
+                  "theme"
+                ]
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "node_type": "item",
               "title": "Reset UI Bookmarks",
               "description": "🫡 - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).",
               "children": [],
@@ -2363,36 +2393,6 @@
                   "magento2-extension-free",
                   "magento2-grid",
                   "magento2-module"
-                ]
-              },
-              "first_seen": "2026-08-28T05:18:31.202Z"
-            },
-            {
-              "node_type": "item",
-              "title": "theme-adminhtml-m137",
-              "description": "🫡 - M137 Admin Theme for Magento/Mage-OS",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "M137 Admin Theme for Magento/Mage-OS",
-                "homepage": null,
-                "id": 958826243,
-                "language": "Less",
-                "license": "MIT",
-                "last_commit": "2026-08-10T13:34:51Z",
-                "open_issues": 13,
-                "owner": "mage-os",
-                "repo": "theme-adminhtml-m137",
-                "stars": 38,
-                "topics": [
-                  "admin",
-                  "adobecommerce",
-                  "ecommerce",
-                  "mage-os",
-                  "mage-os-lab",
-                  "magento",
-                  "magento2",
-                  "theme"
                 ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
@@ -3405,11 +3405,11 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-10T12:53:11Z",
-            "open_issues": 2184,
+            "last_commit": "2026-09-15T18:27:28Z",
+            "open_issues": 2188,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12190,
+            "stars": 12191,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -3511,7 +3511,7 @@
             "open_issues": 91,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32698,
+            "stars": 32702,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -3537,7 +3537,7 @@
             "language": "PHP",
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T07:32:28Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "aleron75",
             "repo": "mageres",
             "stars": 1016,
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:50:01.065Z",
+    "last_updated": "2026-09-15T23:30:11.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
