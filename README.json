@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "What is an awesome list?",
-          "description": null,
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513731,
+            "stars": 513797,
             "topics": [
               "awesome",
               "awesome-list",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "Contribution guide",
-          "description": null,
+          "description": "run-as-root/awesome-magento2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -702,105 +702,106 @@
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pestle",
+              "description": "Code generation tool by Alan Storm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of command line scripts for Magento 2 code generation, and a PHP module system for organizing command line scripts. ",
+                "homepage": null,
+                "id": 48827954,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2023-04-19T19:18:27Z",
+                "open_issues": 184,
+                "owner": "astorm",
+                "repo": "pestle",
+                "stars": 531,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Masquerade",
+              "description": "Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool",
+                "homepage": null,
+                "id": 140482706,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2023-10-19T12:17:24Z",
+                "open_issues": 20,
+                "owner": "elgentos",
+                "repo": "masquerade",
+                "stars": 230,
+                "topics": [
+                  "faker",
+                  "hacktoberfest",
+                  "magento",
+                  "magento2",
+                  "php"
+                ]
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Subodha Magento2 Gulp Integration",
+              "description": "Magento 2 Gulp integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Gulp for Magento 2",
+                "homepage": null,
+                "id": 74536344,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2021-05-10T03:42:13Z",
+                "open_issues": 5,
+                "owner": "subodha",
+                "repo": "magento-2-gulp",
+                "stars": 73,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Documentation Search for Alfred",
+              "description": "Alfred workflow integrating the official Magento 2 documentation search.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This Repository contains a custom Workflow for Alfred which provides the function to instantly search in the Magento 2 DevDocs",
+                "homepage": null,
+                "id": 74225154,
+                "language": null,
+                "license": "GPL-3.0",
+                "last_commit": "2016-11-19T18:36:53Z",
+                "open_issues": 1,
+                "owner": "DavidLambauer",
+                "repo": "Alfred-Workflow-Magento-2-DevDocs-Search",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🪦 Graveyard — projects no longer recommended"
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Pestle",
-          "description": "Code generation tool by Alan Storm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of command line scripts for Magento 2 code generation, and a PHP module system for organizing command line scripts. ",
-            "homepage": null,
-            "id": 48827954,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2023-04-19T19:18:27Z",
-            "open_issues": 184,
-            "owner": "astorm",
-            "repo": "pestle",
-            "stars": 531,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Masquerade",
-          "description": "Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool",
-            "homepage": null,
-            "id": 140482706,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2023-10-19T12:17:24Z",
-            "open_issues": 20,
-            "owner": "elgentos",
-            "repo": "masquerade",
-            "stars": 230,
-            "topics": [
-              "faker",
-              "hacktoberfest",
-              "magento",
-              "magento2",
-              "php"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Subodha Magento2 Gulp Integration",
-          "description": "Magento 2 Gulp integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Gulp for Magento 2",
-            "homepage": null,
-            "id": 74536344,
-            "language": "JavaScript",
-            "license": "GPL-3.0",
-            "last_commit": "2021-05-10T03:42:13Z",
-            "open_issues": 5,
-            "owner": "subodha",
-            "repo": "magento-2-gulp",
-            "stars": 73,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Documentation Search for Alfred",
-          "description": "Alfred workflow integrating the official Magento 2 documentation search.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This Repository contains a custom Workflow for Alfred which provides the function to instantly search in the Magento 2 DevDocs",
-            "homepage": null,
-            "id": 74225154,
-            "language": null,
-            "license": "GPL-3.0",
-            "last_commit": "2016-11-19T18:36:53Z",
-            "open_issues": 1,
-            "owner": "DavidLambauer",
-            "repo": "Alfred-Workflow-Magento-2-DevDocs-Search",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        }
-      ],
-      "title": "🪦 Graveyard — projects no longer recommended"
     },
     {
       "description": null,
@@ -1236,6 +1237,34 @@
                 ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Magento 2 PHPStorm File Templates",
+                  "description": "PHPStorm Magento 2 File Templates.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "PHPStorm Magento 2 File Templates",
+                    "homepage": null,
+                    "id": 96692821,
+                    "language": "HTML",
+                    "license": "GPL-3.0",
+                    "last_commit": "2022-12-21T18:56:04Z",
+                    "open_issues": 2,
+                    "owner": "lfolco",
+                    "repo": "phpstorm-m2-filetemplates",
+                    "stars": 42,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🪦 Graveyard — projects no longer recommended"
             }
           ],
           "description": null,
@@ -1318,6 +1347,34 @@
                 ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Magento 2 Deployer Plus",
+                  "description": "Tool based on deployer.org to perform zero-downtime deployments of Magento 2 projects.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects",
+                    "homepage": null,
+                    "id": 122631849,
+                    "language": "PHP",
+                    "license": "GPL-3.0",
+                    "last_commit": "2022-10-03T07:37:24Z",
+                    "open_issues": 13,
+                    "owner": "jalogut",
+                    "repo": "magento2-deployer-plus",
+                    "stars": 201,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🪦 Graveyard — projects no longer recommended"
             }
           ],
           "description": null,
@@ -1435,6 +1492,271 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "pt_BR",
+                  "description": "Portuguese Brazil Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Tradução Magento 2 oficial para português do Brasil do site Crowdin",
+                    "homepage": "https://packagist.org/packages/rafaelstz/traducao_magento2_pt_br",
+                    "id": 109490857,
+                    "language": "PHP",
+                    "license": "MIT",
+                    "last_commit": "2023-03-15T15:11:17Z",
+                    "open_issues": 3,
+                    "owner": "rafaelstz",
+                    "repo": "traducao_magento2_pt_br",
+                    "stars": 73,
+                    "topics": [
+                      "brasil",
+                      "brazil",
+                      "magento2",
+                      "pt-br",
+                      "translation"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "fr_FR",
+                  "description": "French Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Magento 2 - French (France) language pack (fr_fr)",
+                    "homepage": "http://imaginaerum.github.io/magento2-language-fr-fr/",
+                    "id": 49590458,
+                    "language": "PHP",
+                    "license": "MIT",
+                    "last_commit": "2021-02-08T01:58:46Z",
+                    "open_issues": 113,
+                    "owner": "Imaginaerum",
+                    "repo": "magento2-language-fr-fr",
+                    "stars": 41,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "tr_TR",
+                  "description": "Turkish Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Magento2 Turkish Translation / Magento2 Türkçe Çevirisi",
+                    "homepage": null,
+                    "id": 48075959,
+                    "language": "PHP",
+                    "license": "OSL-3.0",
+                    "last_commit": "2019-08-04T00:16:00Z",
+                    "open_issues": 0,
+                    "owner": "hidonet",
+                    "repo": "magento2-language-tr_tr",
+                    "stars": 32,
+                    "topics": [
+                      "language",
+                      "magento",
+                      "magento2",
+                      "magento2-extension",
+                      "magento2-language",
+                      "magento2-module",
+                      "magento2-turkish-translation"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "es_ES",
+                  "description": "Spanish Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Magento 2 Spanish (Spain) language package - Paquete de idioma Español (España) para Magento 2",
+                    "homepage": null,
+                    "id": 57335695,
+                    "language": "PHP",
+                    "license": null,
+                    "last_commit": "2020-08-07T20:54:18Z",
+                    "open_issues": 2,
+                    "owner": "eusonlito",
+                    "repo": "magento2-language-es_es",
+                    "stars": 14,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "sl_SI",
+                  "description": "Slovenian Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "🇸🇮 Slovenian translations - language package for Magento 2",
+                    "homepage": null,
+                    "id": 50219806,
+                    "language": "PHP",
+                    "license": "OSL-3.0",
+                    "last_commit": "2018-05-27T21:50:53Z",
+                    "open_issues": 6,
+                    "owner": "symfony-si",
+                    "repo": "magento2-sl-si",
+                    "stars": 12,
+                    "topics": [
+                      "magento",
+                      "magento2",
+                      "magento2-extension"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ro_RO",
+                  "description": "Romanian Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The Romanian language pack.",
+                    "homepage": "https://www.eadesign.ro",
+                    "id": 78362649,
+                    "language": "PHP",
+                    "license": "Apache-2.0",
+                    "last_commit": "2021-04-29T13:00:25Z",
+                    "open_issues": 4,
+                    "owner": "EaDesgin",
+                    "repo": "magento2-romanian-language-pack",
+                    "stars": 8,
+                    "topics": [
+                      "magento-2",
+                      "magento-language-pack",
+                      "magento2",
+                      "romanian",
+                      "romanian-language-magento-2"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "de_CH",
+                  "description": "Swiss Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Swiss-German language pack for Magento 2",
+                    "homepage": null,
+                    "id": 54373061,
+                    "language": "PHP",
+                    "license": "OSL-3.0",
+                    "last_commit": "2022-04-08T10:30:11Z",
+                    "open_issues": 5,
+                    "owner": "staempfli",
+                    "repo": "magento2-language-de-ch",
+                    "stars": 7,
+                    "topics": [
+                      "magento2",
+                      "magento2-language"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ko_KR",
+                  "description": "Korean Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "In order to use the Korean Language on your Magento 2 store, it is time to start with Magento 2 Korean Language Pack in the set of informative documentations by Mageplaza. Magento 2 Korean Language Package is published by Magento 2 Translation Project at Crowdin, so all phrases will be replaced by the Korean language according to the contribution to that project. Please following up the guides in this post to convert the language with ease!",
+                    "homepage": null,
+                    "id": 73484170,
+                    "language": "PHP",
+                    "license": "MIT",
+                    "last_commit": "2022-02-22T09:04:44Z",
+                    "open_issues": 4,
+                    "owner": "mageplaza",
+                    "repo": "magento-2-korean-language-pack",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "en_GB",
+                  "description": "British Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Magento2 British Language Pack (en_GB)",
+                    "homepage": null,
+                    "id": 93807279,
+                    "language": "PHP",
+                    "license": "MIT",
+                    "last_commit": "2021-04-28T14:43:01Z",
+                    "open_issues": 0,
+                    "owner": "cubewebsites",
+                    "repo": "magento2-language-en-gb",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "es_AR",
+                  "description": "Spanish (Argentina) Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Magento2 Spanish (Argentina) language pack build from Crowdin community translation tool.",
+                    "homepage": null,
+                    "id": 113752120,
+                    "language": "PHP",
+                    "license": "MIT",
+                    "last_commit": "2019-12-23T17:21:11Z",
+                    "open_issues": 1,
+                    "owner": "SemExpert",
+                    "repo": "Magento2-language-es_ar",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "sk_SK",
+                  "description": "Slovakian Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Basing on Magento 2 Translation Pack at Crowdin, Magento 2 Slovak Language Pack is buit by Mageplaza team to promote the performance of your storefront when you want to develop the own eCommerce business in the Slovakia market. Rather than the English language, you should consider Slovak language to apporach the domestic customers.",
+                    "homepage": null,
+                    "id": 73484220,
+                    "language": "PHP",
+                    "license": "MIT",
+                    "last_commit": "2023-01-25T14:56:13Z",
+                    "open_issues": 5,
+                    "owner": "mageplaza",
+                    "repo": "magento-2-slovak-language-pack",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🪦 Graveyard — projects no longer recommended"
             }
           ],
           "description": null,
@@ -1966,6 +2288,39 @@
                 ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Magento 2 PDF",
+                  "description": "PDF Generator based on wkhtmltopdf.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Magento 2 Module for creating PDF's based on wkhtmltopdf",
+                    "homepage": "https://www.schmengler-se.de/en/2016/12/pdf-generation-in-magento-2/",
+                    "id": 75283650,
+                    "language": "PHP",
+                    "license": null,
+                    "last_commit": "2020-09-16T12:01:24Z",
+                    "open_issues": 4,
+                    "owner": "staempfli",
+                    "repo": "magento2-module-pdf",
+                    "stars": 57,
+                    "topics": [
+                      "magento2",
+                      "magento2-extension",
+                      "pdf-generation",
+                      "wkhtmltopdf"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🪦 Graveyard — projects no longer recommended"
             }
           ],
           "description": null,
@@ -2425,6 +2780,111 @@
                 ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "shkoliar/magento-grid-colors",
+                  "description": "Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid bookmarks by Dmitry Shkoliar.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks.",
+                    "homepage": null,
+                    "id": 233925514,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2021-10-05T20:17:49Z",
+                    "open_issues": 2,
+                    "owner": "shkoliar",
+                    "repo": "magento-grid-colors",
+                    "stars": 59,
+                    "topics": [
+                      "color-picker",
+                      "colors",
+                      "magento",
+                      "magento-2",
+                      "magento-extension",
+                      "magento-grid",
+                      "magento-module",
+                      "magento-sales",
+                      "magento2",
+                      "magento2-extension",
+                      "magento2-module",
+                      "mit",
+                      "mit-license"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "extdn/extension-dashboard-m2",
+                  "description": "A Magento 2 dashboard to display installed extensions by the Magento Extension Developers Network.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Magento 2 dashboard to display installed extensions. Read the blog post on some of the thinking behind it:",
+                    "homepage": "https://store.fooman.co.nz/blog/mlau-2019-devexchange-extension-and-security-recap.html",
+                    "id": 171781201,
+                    "language": "PHP",
+                    "license": null,
+                    "last_commit": "2022-03-23T10:19:03Z",
+                    "open_issues": 2,
+                    "owner": "extdn",
+                    "repo": "extension-dashboard-m2",
+                    "stars": 38,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Reset Customer Password",
+                  "description": "Set a customer password with bin/magento by Vinai Kopp.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Set a customer password with bin/magento.",
+                    "homepage": null,
+                    "id": 100708932,
+                    "language": "PHP",
+                    "license": null,
+                    "last_commit": "2022-06-15T09:11:55Z",
+                    "open_issues": 2,
+                    "owner": "Vinai",
+                    "repo": "module-customer-password-command",
+                    "stars": 27,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "hivecommerce/magento2-content-fuzzyfyr",
+                  "description": "The Content Fuzzyfyr module for Magento 2 replaces real content with dummy content — useful for development, test data, and matching GDPR restrictions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content. This is for development purposes, e.g. save time to prepare test data and matching GDPR restrictions.",
+                    "homepage": null,
+                    "id": 417574786,
+                    "language": "PHP",
+                    "license": "Apache-2.0",
+                    "last_commit": "2024-09-02T04:29:07Z",
+                    "open_issues": 3,
+                    "owner": "hivecommerce",
+                    "repo": "magento2-content-fuzzyfyr",
+                    "stars": 14,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🪦 Graveyard — projects no longer recommended"
             }
           ],
           "description": null,
@@ -2462,6 +2922,39 @@
                 ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Stripe",
+                  "description": "Stripe Payments for Magento 2.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Stripe Payments for Magento 2",
+                    "homepage": null,
+                    "id": 80884547,
+                    "language": "PHP",
+                    "license": "OSL-3.0",
+                    "last_commit": "2018-12-18T12:07:29Z",
+                    "open_issues": 12,
+                    "owner": "pmclain",
+                    "repo": "module-stripe",
+                    "stars": 47,
+                    "topics": [
+                      "magento-extension",
+                      "magento2",
+                      "stripe",
+                      "stripe-payment"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🪦 Graveyard — projects no longer recommended"
             }
           ],
           "description": null,
@@ -2797,598 +3290,119 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Magento 2 PHPStorm File Templates",
-          "description": "PHPStorm Magento 2 File Templates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PHPStorm Magento 2 File Templates",
-            "homepage": null,
-            "id": 96692821,
-            "language": "HTML",
-            "license": "GPL-3.0",
-            "last_commit": "2022-12-21T18:56:04Z",
-            "open_issues": 2,
-            "owner": "lfolco",
-            "repo": "phpstorm-m2-filetemplates",
-            "stars": 42,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "magento-notes/magento2-exam-notes",
+              "description": "Preparation notes for the Magento 2 Certified Professional Developer exam.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Preparation notes for Magento 2 Certified Professional Developer exam",
+                "homepage": null,
+                "id": 126006633,
+                "language": null,
+                "license": null,
+                "last_commit": "2021-08-15T09:48:29Z",
+                "open_issues": 4,
+                "owner": "magento-notes",
+                "repo": "magento2-exam-notes",
+                "stars": 698,
+                "topics": [
+                  "exam",
+                  "magento-certified-developer",
+                  "magento2",
+                  "magento2-certification",
+                  "study-guide"
+                ]
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "node_type": "item",
+              "title": "fisheye-academy/m2cpfed-training",
+              "description": "Resources for the Magento 2 Certified Professional Front End Developer exam.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Resources for the Magento 2 Certified Professional Front End Developer exam",
+                "homepage": null,
+                "id": 166110363,
+                "language": null,
+                "license": null,
+                "last_commit": "2020-09-30T18:51:53Z",
+                "open_issues": 1,
+                "owner": "fisheye-academy",
+                "repo": "m2cpfed-training",
+                "stars": 113,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "node_type": "item",
+              "title": "magento-notes/magento2-cloud-developer-notes",
+              "description": "Preparation notes for the Magento 2 Certified Professional Cloud Developer exam.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Preparation notes for Magento 2 Certified Professional Cloud Developer exam",
+                "homepage": null,
+                "id": 176137914,
+                "language": null,
+                "license": null,
+                "last_commit": "2019-04-10T16:56:01Z",
+                "open_issues": 0,
+                "owner": "magento-notes",
+                "repo": "magento2-cloud-developer-notes",
+                "stars": 84,
+                "topics": [
+                  "exam",
+                  "magento-certified-cloud-developer",
+                  "magento-certified-developer",
+                  "magento2",
+                  "magento2-certification",
+                  "study-guide"
+                ]
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "node_type": "item",
+              "title": "roma-glushko/magento2-dev-plus-exam",
+              "description": "Preparation notes for the Magento 2 Certified Professional Developer Plus exam.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📚Magento 2 Certified Professional Developer Plus Exam",
+                "homepage": null,
+                "id": 164934788,
+                "language": "PHP",
+                "license": "GPL-2.0",
+                "last_commit": "2019-11-23T20:41:40Z",
+                "open_issues": 0,
+                "owner": "roma-glushko",
+                "repo": "magento2-dev-plus-exam",
+                "stars": 75,
+                "topics": [
+                  "exam",
+                  "exams",
+                  "magento-certified-developer",
+                  "magento2",
+                  "magento2-certification",
+                  "magento2-module",
+                  "study-guide"
+                ]
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🪦 Graveyard — projects no longer recommended"
         }
       ],
-      "title": "🪦 Graveyard — projects no longer recommended"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Magento 2 Deployer Plus",
-          "description": "Tool based on deployer.org to perform zero-downtime deployments of Magento 2 projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects",
-            "homepage": null,
-            "id": 122631849,
-            "language": "PHP",
-            "license": "GPL-3.0",
-            "last_commit": "2022-10-03T07:37:24Z",
-            "open_issues": 13,
-            "owner": "jalogut",
-            "repo": "magento2-deployer-plus",
-            "stars": 201,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        }
-      ],
-      "title": "🪦 Graveyard — projects no longer recommended"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pt_BR",
-          "description": "Portuguese Brazil Language Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tradução Magento 2 oficial para português do Brasil do site Crowdin",
-            "homepage": "https://packagist.org/packages/rafaelstz/traducao_magento2_pt_br",
-            "id": 109490857,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2023-03-15T15:11:17Z",
-            "open_issues": 3,
-            "owner": "rafaelstz",
-            "repo": "traducao_magento2_pt_br",
-            "stars": 73,
-            "topics": [
-              "brasil",
-              "brazil",
-              "magento2",
-              "pt-br",
-              "translation"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fr_FR",
-          "description": "French Language Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 - French (France) language pack (fr_fr)",
-            "homepage": "http://imaginaerum.github.io/magento2-language-fr-fr/",
-            "id": 49590458,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2021-02-08T01:58:46Z",
-            "open_issues": 113,
-            "owner": "Imaginaerum",
-            "repo": "magento2-language-fr-fr",
-            "stars": 41,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tr_TR",
-          "description": "Turkish Language Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento2 Turkish Translation / Magento2 Türkçe Çevirisi",
-            "homepage": null,
-            "id": 48075959,
-            "language": "PHP",
-            "license": "OSL-3.0",
-            "last_commit": "2019-08-04T00:16:00Z",
-            "open_issues": 0,
-            "owner": "hidonet",
-            "repo": "magento2-language-tr_tr",
-            "stars": 32,
-            "topics": [
-              "language",
-              "magento",
-              "magento2",
-              "magento2-extension",
-              "magento2-language",
-              "magento2-module",
-              "magento2-turkish-translation"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "es_ES",
-          "description": "Spanish Language Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 Spanish (Spain) language package - Paquete de idioma Español (España) para Magento 2",
-            "homepage": null,
-            "id": 57335695,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2020-08-07T20:54:18Z",
-            "open_issues": 2,
-            "owner": "eusonlito",
-            "repo": "magento2-language-es_es",
-            "stars": 14,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sl_SI",
-          "description": "Slovenian Language Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🇸🇮 Slovenian translations - language package for Magento 2",
-            "homepage": null,
-            "id": 50219806,
-            "language": "PHP",
-            "license": "OSL-3.0",
-            "last_commit": "2018-05-27T21:50:53Z",
-            "open_issues": 6,
-            "owner": "symfony-si",
-            "repo": "magento2-sl-si",
-            "stars": 12,
-            "topics": [
-              "magento",
-              "magento2",
-              "magento2-extension"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ro_RO",
-          "description": "Romanian Language Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Romanian language pack.",
-            "homepage": "https://www.eadesign.ro",
-            "id": 78362649,
-            "language": "PHP",
-            "license": "Apache-2.0",
-            "last_commit": "2021-04-29T13:00:25Z",
-            "open_issues": 4,
-            "owner": "EaDesgin",
-            "repo": "magento2-romanian-language-pack",
-            "stars": 8,
-            "topics": [
-              "magento-2",
-              "magento-language-pack",
-              "magento2",
-              "romanian",
-              "romanian-language-magento-2"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "de_CH",
-          "description": "Swiss Language Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Swiss-German language pack for Magento 2",
-            "homepage": null,
-            "id": 54373061,
-            "language": "PHP",
-            "license": "OSL-3.0",
-            "last_commit": "2022-04-08T10:30:11Z",
-            "open_issues": 5,
-            "owner": "staempfli",
-            "repo": "magento2-language-de-ch",
-            "stars": 7,
-            "topics": [
-              "magento2",
-              "magento2-language"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ko_KR",
-          "description": "Korean Language Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "In order to use the Korean Language on your Magento 2 store, it is time to start with Magento 2 Korean Language Pack in the set of informative documentations by Mageplaza. Magento 2 Korean Language Package is published by Magento 2 Translation Project at Crowdin, so all phrases will be replaced by the Korean language according to the contribution to that project. Please following up the guides in this post to convert the language with ease!",
-            "homepage": null,
-            "id": 73484170,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2022-02-22T09:04:44Z",
-            "open_issues": 4,
-            "owner": "mageplaza",
-            "repo": "magento-2-korean-language-pack",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "en_GB",
-          "description": "British Language Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento2 British Language Pack (en_GB)",
-            "homepage": null,
-            "id": 93807279,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2021-04-28T14:43:01Z",
-            "open_issues": 0,
-            "owner": "cubewebsites",
-            "repo": "magento2-language-en-gb",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "es_AR",
-          "description": "Spanish (Argentina) Language Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento2 Spanish (Argentina) language pack build from Crowdin community translation tool.",
-            "homepage": null,
-            "id": 113752120,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2019-12-23T17:21:11Z",
-            "open_issues": 1,
-            "owner": "SemExpert",
-            "repo": "Magento2-language-es_ar",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sk_SK",
-          "description": "Slovakian Language Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Basing on Magento 2 Translation Pack at Crowdin, Magento 2 Slovak Language Pack is buit by Mageplaza team to promote the performance of your storefront when you want to develop the own eCommerce business in the Slovakia market. Rather than the English language, you should consider Slovak language to apporach the domestic customers.",
-            "homepage": null,
-            "id": 73484220,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2023-01-25T14:56:13Z",
-            "open_issues": 5,
-            "owner": "mageplaza",
-            "repo": "magento-2-slovak-language-pack",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        }
-      ],
-      "title": "🪦 Graveyard — projects no longer recommended"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Magento 2 PDF",
-          "description": "PDF Generator based on wkhtmltopdf.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 Module for creating PDF's based on wkhtmltopdf",
-            "homepage": "https://www.schmengler-se.de/en/2016/12/pdf-generation-in-magento-2/",
-            "id": 75283650,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2020-09-16T12:01:24Z",
-            "open_issues": 4,
-            "owner": "staempfli",
-            "repo": "magento2-module-pdf",
-            "stars": 57,
-            "topics": [
-              "magento2",
-              "magento2-extension",
-              "pdf-generation",
-              "wkhtmltopdf"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        }
-      ],
-      "title": "🪦 Graveyard — projects no longer recommended"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "shkoliar/magento-grid-colors",
-          "description": "Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid bookmarks by Dmitry Shkoliar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks.",
-            "homepage": null,
-            "id": 233925514,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2021-10-05T20:17:49Z",
-            "open_issues": 2,
-            "owner": "shkoliar",
-            "repo": "magento-grid-colors",
-            "stars": 59,
-            "topics": [
-              "color-picker",
-              "colors",
-              "magento",
-              "magento-2",
-              "magento-extension",
-              "magento-grid",
-              "magento-module",
-              "magento-sales",
-              "magento2",
-              "magento2-extension",
-              "magento2-module",
-              "mit",
-              "mit-license"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "extdn/extension-dashboard-m2",
-          "description": "A Magento 2 dashboard to display installed extensions by the Magento Extension Developers Network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Magento 2 dashboard to display installed extensions. Read the blog post on some of the thinking behind it:",
-            "homepage": "https://store.fooman.co.nz/blog/mlau-2019-devexchange-extension-and-security-recap.html",
-            "id": 171781201,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2022-03-23T10:19:03Z",
-            "open_issues": 2,
-            "owner": "extdn",
-            "repo": "extension-dashboard-m2",
-            "stars": 38,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Reset Customer Password",
-          "description": "Set a customer password with bin/magento by Vinai Kopp.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Set a customer password with bin/magento.",
-            "homepage": null,
-            "id": 100708932,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2022-06-15T09:11:55Z",
-            "open_issues": 2,
-            "owner": "Vinai",
-            "repo": "module-customer-password-command",
-            "stars": 27,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hivecommerce/magento2-content-fuzzyfyr",
-          "description": "The Content Fuzzyfyr module for Magento 2 replaces real content with dummy content — useful for development, test data, and matching GDPR restrictions.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content. This is for development purposes, e.g. save time to prepare test data and matching GDPR restrictions.",
-            "homepage": null,
-            "id": 417574786,
-            "language": "PHP",
-            "license": "Apache-2.0",
-            "last_commit": "2024-09-02T04:29:07Z",
-            "open_issues": 3,
-            "owner": "hivecommerce",
-            "repo": "magento2-content-fuzzyfyr",
-            "stars": 14,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        }
-      ],
-      "title": "🪦 Graveyard — projects no longer recommended"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Stripe",
-          "description": "Stripe Payments for Magento 2.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Stripe Payments for Magento 2",
-            "homepage": null,
-            "id": 80884547,
-            "language": "PHP",
-            "license": "OSL-3.0",
-            "last_commit": "2018-12-18T12:07:29Z",
-            "open_issues": 12,
-            "owner": "pmclain",
-            "repo": "module-stripe",
-            "stars": 47,
-            "topics": [
-              "magento-extension",
-              "magento2",
-              "stripe",
-              "stripe-payment"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        }
-      ],
-      "title": "🪦 Graveyard — projects no longer recommended"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "magento-notes/magento2-exam-notes",
-          "description": "Preparation notes for the Magento 2 Certified Professional Developer exam.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Preparation notes for Magento 2 Certified Professional Developer exam",
-            "homepage": null,
-            "id": 126006633,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-08-15T09:48:29Z",
-            "open_issues": 4,
-            "owner": "magento-notes",
-            "repo": "magento2-exam-notes",
-            "stars": 698,
-            "topics": [
-              "exam",
-              "magento-certified-developer",
-              "magento2",
-              "magento2-certification",
-              "study-guide"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fisheye-academy/m2cpfed-training",
-          "description": "Resources for the Magento 2 Certified Professional Front End Developer exam.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Resources for the Magento 2 Certified Professional Front End Developer exam",
-            "homepage": null,
-            "id": 166110363,
-            "language": null,
-            "license": null,
-            "last_commit": "2020-09-30T18:51:53Z",
-            "open_issues": 1,
-            "owner": "fisheye-academy",
-            "repo": "m2cpfed-training",
-            "stars": 113,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "magento-notes/magento2-cloud-developer-notes",
-          "description": "Preparation notes for the Magento 2 Certified Professional Cloud Developer exam.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Preparation notes for Magento 2 Certified Professional Cloud Developer exam",
-            "homepage": null,
-            "id": 176137914,
-            "language": null,
-            "license": null,
-            "last_commit": "2019-04-10T16:56:01Z",
-            "open_issues": 0,
-            "owner": "magento-notes",
-            "repo": "magento2-cloud-developer-notes",
-            "stars": 84,
-            "topics": [
-              "exam",
-              "magento-certified-cloud-developer",
-              "magento-certified-developer",
-              "magento2",
-              "magento2-certification",
-              "study-guide"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        },
-        {
-          "node_type": "item",
-          "title": "roma-glushko/magento2-dev-plus-exam",
-          "description": "Preparation notes for the Magento 2 Certified Professional Developer Plus exam.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📚Magento 2 Certified Professional Developer Plus Exam",
-            "homepage": null,
-            "id": 164934788,
-            "language": "PHP",
-            "license": "GPL-2.0",
-            "last_commit": "2019-11-23T20:41:40Z",
-            "open_issues": 0,
-            "owner": "roma-glushko",
-            "repo": "magento2-dev-plus-exam",
-            "stars": 75,
-            "topics": [
-              "exam",
-              "exams",
-              "magento-certified-developer",
-              "magento2",
-              "magento2-certification",
-              "magento2-module",
-              "study-guide"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        }
-      ],
-      "title": "🪦 Graveyard — projects no longer recommended"
+      "title": "Learning"
     },
     {
       "description": null,
@@ -3511,7 +3525,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32721,
+            "stars": 32722,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -3548,40 +3562,41 @@
             ]
           },
           "first_seen": "2026-08-28T05:18:31.202Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Magento",
+              "description": "An awesome Magento list with mixed M1 and M2 content by sunel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Magento ecosystem",
+                "homepage": null,
+                "id": 41964138,
+                "language": null,
+                "license": null,
+                "last_commit": "2021-07-06T07:20:20Z",
+                "open_issues": 0,
+                "owner": "sunel",
+                "repo": "awesome-magento",
+                "stars": 89,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🪦 Graveyard — projects no longer recommended"
         }
       ],
       "title": "Other Magento 2 related Awesome Lists"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Magento",
-          "description": "An awesome Magento list with mixed M1 and M2 content by sunel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Magento ecosystem",
-            "homepage": null,
-            "id": 41964138,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-07-06T07:20:20Z",
-            "open_issues": 0,
-            "owner": "sunel",
-            "repo": "awesome-magento",
-            "stars": 89,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:31.202Z"
-        }
-      ],
-      "title": "🪦 Graveyard — projects no longer recommended"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:24:12.032Z",
+    "last_updated": "2026-10-03T04:57:18.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
