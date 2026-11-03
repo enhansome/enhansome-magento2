@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 105,
+            "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 528716,
+            "stars": 529727,
             "topics": [
               "awesome",
               "awesome-list",
@@ -42,8 +42,8 @@
             "id": 80614782,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-01T04:06:10Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-02T06:17:28Z",
+            "open_issues": 14,
             "owner": "run-as-root",
             "repo": "awesome-magento2",
             "stars": 1177,
@@ -84,7 +84,7 @@
             "open_issues": 51,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10961,
+            "stars": 10960,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -143,7 +143,7 @@
             "id": 897308789,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-26T03:34:20Z",
+            "last_commit": "2026-11-02T16:47:44Z",
             "open_issues": 0,
             "owner": "mage-obsidian",
             "repo": "module-modern-frontend",
@@ -216,11 +216,11 @@
             "id": 80669528,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T16:03:24Z",
-            "open_issues": 178,
+            "last_commit": "2026-11-03T01:47:25Z",
+            "open_issues": 173,
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3942,
+            "stars": 3944,
             "topics": [
               "backdrop",
               "craftcms",
@@ -261,7 +261,7 @@
             "open_issues": 0,
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2865,
+            "stars": 2867,
             "topics": [
               "docker",
               "docker-compose",
@@ -286,7 +286,7 @@
             "id": 25814103,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T17:15:12Z",
+            "last_commit": "2026-11-02T21:32:49Z",
             "open_issues": 10,
             "owner": "netz98",
             "repo": "n98-magerun2",
@@ -538,8 +538,8 @@
             "id": 384900364,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T08:13:35Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-02T13:57:05Z",
+            "open_issues": 3,
             "owner": "jellesiderius",
             "repo": "mage-db-sync",
             "stars": 86,
@@ -629,7 +629,7 @@
             "id": 845558727,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T12:36:59Z",
+            "last_commit": "2026-11-02T16:02:51Z",
             "open_issues": 3,
             "owner": "OpenForgeProject",
             "repo": "mageforge",
@@ -720,7 +720,7 @@
                 "open_issues": 184,
                 "owner": "astorm",
                 "repo": "pestle",
-                "stars": 530,
+                "stars": 529,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
@@ -910,7 +910,7 @@
                 "id": 160542079,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-11-01T13:17:12Z",
+                "last_commit": "2026-11-02T17:44:13Z",
                 "open_issues": 12,
                 "owner": "sansecio",
                 "repo": "magevulndb",
@@ -1055,29 +1055,6 @@
             },
             {
               "node_type": "item",
-              "title": "Whoops Exceptions",
-              "description": "🫡 - PHP Exceptions for Cool Kids in Magento 2.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Magento 2 module integrating Whoops error handling",
-                "homepage": null,
-                "id": 65015287,
-                "language": "PHP",
-                "license": "OSL-3.0",
-                "last_commit": "2026-09-03T08:44:46Z",
-                "open_issues": 3,
-                "owner": "yireo",
-                "repo": "Yireo_Whoops",
-                "stars": 101,
-                "topics": [
-                  "magento2-module"
-                ]
-              },
-              "first_seen": "2026-08-28T05:18:31.202Z"
-            },
-            {
-              "node_type": "item",
               "title": "graycoreio/magento2-cors",
               "description": "🫡 - Enables configurable CORS headers on the Magento GraphQL API.",
               "children": [],
@@ -1105,6 +1082,29 @@
                   "magento2-module",
                   "php",
                   "rest"
+                ]
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Whoops Exceptions",
+              "description": "🫡 - PHP Exceptions for Cool Kids in Magento 2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Magento 2 module integrating Whoops error handling",
+                "homepage": null,
+                "id": 65015287,
+                "language": "PHP",
+                "license": "OSL-3.0",
+                "last_commit": "2026-09-03T08:44:46Z",
+                "open_issues": 3,
+                "owner": "yireo",
+                "repo": "Yireo_Whoops",
+                "stars": 101,
+                "topics": [
+                  "magento2-module"
                 ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
@@ -1223,7 +1223,7 @@
                 "id": 918140239,
                 "language": "PHP",
                 "license": "OSL-3.0",
-                "last_commit": "2026-11-01T12:12:24Z",
+                "last_commit": "2026-11-02T19:52:48Z",
                 "open_issues": 0,
                 "owner": "LokiExtensions",
                 "repo": "Loki_Components",
@@ -1390,7 +1390,7 @@
             {
               "node_type": "item",
               "title": "de_DE",
-              "description": "🔥 - German Language Package.",
+              "description": "🔥 🫡 - German Language Package.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1405,6 +1405,35 @@
                 "repo": "Magento2_German_LocalePack_de_DE",
                 "stars": 85,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T05:18:31.202Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tr_TR",
+              "description": "🫡 - Turkish Language Package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Magento2 Turkish Translation / Magento2 Türkçe Çevirisi",
+                "homepage": null,
+                "id": 48075959,
+                "language": "PHP",
+                "license": "OSL-3.0",
+                "last_commit": "2026-10-26T09:09:27Z",
+                "open_issues": 0,
+                "owner": "hidonet",
+                "repo": "magento2-language-tr_tr",
+                "stars": 32,
+                "topics": [
+                  "language",
+                  "magento",
+                  "magento2",
+                  "magento2-extension",
+                  "magento2-language",
+                  "magento2-module",
+                  "magento2-turkish-translation"
+                ]
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
@@ -1477,27 +1506,6 @@
               "first_seen": "2026-08-28T05:18:31.202Z"
             },
             {
-              "node_type": "item",
-              "title": "fi_FL",
-              "description": "Finnish Language Package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Magento 2 Finnish Language Pack is the perfect guide so that you can enable Finnish on your magento 2 store. This translation is really necessary for everyone who are living in the Finland. Here is a step-by-step guide to install Finnish package and use it as the default language.",
-                "homepage": null,
-                "id": 73484087,
-                "language": "PHP",
-                "license": "MIT",
-                "last_commit": "2023-10-31T10:38:14Z",
-                "open_issues": 3,
-                "owner": "mageplaza",
-                "repo": "magento-2-finnish-language-pack",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:18:31.202Z"
-            },
-            {
               "children": [
                 {
                   "node_type": "item",
@@ -1544,35 +1552,6 @@
                     "repo": "magento2-language-fr-fr",
                     "stars": 41,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T05:18:31.202Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "tr_TR",
-                  "description": "Turkish Language Package.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Magento2 Turkish Translation / Magento2 Türkçe Çevirisi",
-                    "homepage": null,
-                    "id": 48075959,
-                    "language": "PHP",
-                    "license": "OSL-3.0",
-                    "last_commit": "2026-10-26T09:09:27Z",
-                    "open_issues": 0,
-                    "owner": "hidonet",
-                    "repo": "magento2-language-tr_tr",
-                    "stars": 32,
-                    "topics": [
-                      "language",
-                      "magento",
-                      "magento2",
-                      "magento2-extension",
-                      "magento2-language",
-                      "magento2-module",
-                      "magento2-turkish-translation"
-                    ]
                   },
                   "first_seen": "2026-08-28T05:18:31.202Z"
                 },
@@ -1738,6 +1717,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "fi_FL",
+                  "description": "Finnish Language Package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Magento 2 Finnish Language Pack is the perfect guide so that you can enable Finnish on your magento 2 store. This translation is really necessary for everyone who are living in the Finland. Here is a step-by-step guide to install Finnish package and use it as the default language.",
+                    "homepage": null,
+                    "id": 73484087,
+                    "language": "PHP",
+                    "license": "MIT",
+                    "last_commit": "2023-10-31T10:38:14Z",
+                    "open_issues": 3,
+                    "owner": "mageplaza",
+                    "repo": "magento-2-finnish-language-pack",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:18:31.202Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "sk_SK",
                   "description": "Slovakian Language Package.",
                   "children": [],
@@ -1812,7 +1812,7 @@
                 "id": 54131069,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T14:30:37Z",
+                "last_commit": "2026-11-02T14:46:35Z",
                 "open_issues": 4,
                 "owner": "algolia",
                 "repo": "algoliasearch-magento-2",
@@ -1968,7 +1968,7 @@
                 "open_issues": 0,
                 "owner": "magefan",
                 "repo": "module-blog",
-                "stars": 272,
+                "stars": 271,
                 "topics": [
                   "magefan-blog",
                   "magefan-extension",
@@ -2269,8 +2269,8 @@
                 "id": 1116132883,
                 "language": "PHP",
                 "license": "OSL-3.0",
-                "last_commit": "2026-10-23T15:24:02Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-02T15:03:39Z",
+                "open_issues": 2,
                 "owner": "mage-os-lab",
                 "repo": "module-blog",
                 "stars": 26,
@@ -2437,7 +2437,7 @@
                 "id": 124255193,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-30T09:20:11Z",
+                "last_commit": "2026-11-02T14:48:44Z",
                 "open_issues": 17,
                 "owner": "justbetter",
                 "repo": "magento2-sentry",
@@ -2564,8 +2564,8 @@
                 "id": 75958387,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-03T20:47:22Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-03T02:22:36Z",
+                "open_issues": 14,
                 "owner": "techdivision",
                 "repo": "import",
                 "stars": 127,
@@ -2593,7 +2593,7 @@
                 "id": 66253147,
                 "language": "PHP",
                 "license": "OSL-3.0",
-                "last_commit": "2026-11-01T14:50:03Z",
+                "last_commit": "2026-11-02T19:52:34Z",
                 "open_issues": 2,
                 "owner": "yireo",
                 "repo": "Yireo_CheckoutTester2",
@@ -2910,7 +2910,7 @@
                 "language": "PHP",
                 "license": null,
                 "last_commit": "2026-10-06T08:33:59Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "PAYONE-GmbH",
                 "repo": "magento-2",
                 "stars": 28,
@@ -3202,8 +3202,8 @@
                 "id": 274976294,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T14:58:43Z",
-                "open_issues": 39,
+                "last_commit": "2026-11-02T16:02:10Z",
+                "open_issues": 41,
                 "owner": "graphcommerce-org",
                 "repo": "graphcommerce",
                 "stars": 361,
@@ -3423,11 +3423,11 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-30T16:56:11Z",
-            "open_issues": 2530,
+            "last_commit": "2026-11-02T22:27:33Z",
+            "open_issues": 2529,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12217,
+            "stars": 12220,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -3529,7 +3529,7 @@
             "open_issues": 80,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32778,
+            "stars": 32784,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -3555,7 +3555,7 @@
             "language": "PHP",
             "license": "CC0-1.0",
             "last_commit": "2026-10-31T18:48:04Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "aleron75",
             "repo": "mageres",
             "stars": 1019,
@@ -3600,7 +3600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T00:35:29.786Z",
+    "last_updated": "2026-11-03T02:52:06.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
@@ -3608,8 +3608,8 @@
       "id": 80614782,
       "language": "PHP",
       "license": "MIT",
-      "last_commit": "2026-11-01T04:06:10Z",
-      "open_issues": 11,
+      "last_commit": "2026-11-02T06:17:28Z",
+      "open_issues": 14,
       "owner": "run-as-root",
       "repo": "awesome-magento2",
       "stars": 1177,
@@ -3626,7 +3626,7 @@
         "php"
       ]
     },
-    "original_repository_sha": "75158d6d0950188955a29b6e75062a4dc59968ab",
+    "original_repository_sha": "08a5ad274522beb9ac58faa07ba73f09bcdc2148",
     "enhanced_repository": "enhansome/enhansome-magento2",
     "enhanced_repository_description": null,
     "title": "Awesome Magento 2 with stars"
