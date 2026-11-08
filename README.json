@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 532522,
+            "stars": 533205,
             "topics": [
               "awesome",
               "awesome-list",
@@ -181,11 +181,11 @@
             "id": 178703607,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-14T17:19:35Z",
+            "last_commit": "2026-11-07T04:14:49Z",
             "open_issues": 73,
             "owner": "nunomaduro",
             "repo": "phpinsights",
-            "stars": 5647,
+            "stars": 5648,
             "topics": [
               "analytics",
               "architecture",
@@ -216,11 +216,11 @@
             "id": 80669528,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T20:27:17Z",
+            "last_commit": "2026-11-07T15:01:15Z",
             "open_issues": 179,
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3947,
+            "stars": 3946,
             "topics": [
               "backdrop",
               "craftcms",
@@ -341,8 +341,8 @@
             "id": 113209707,
             "language": "Java",
             "license": "OSL-3.0",
-            "last_commit": "2026-11-06T16:12:49Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-07T10:24:27Z",
+            "open_issues": 23,
             "owner": "magento",
             "repo": "magento2-phpstorm-plugin",
             "stars": 472,
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "run-as-root",
             "repo": "magento2-message-queue-retry",
-            "stars": 65,
+            "stars": 64,
             "topics": [
               "magento2",
               "magento2-extension",
@@ -2427,7 +2427,7 @@
                 "open_issues": 21,
                 "owner": "idhlagency",
                 "repo": "magento2-disable-stock-reservation",
-                "stars": 231,
+                "stars": 230,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:31.202Z"
@@ -2917,7 +2917,7 @@
                 "language": "PHP",
                 "license": null,
                 "last_commit": "2026-10-06T08:33:59Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "PAYONE-GmbH",
                 "repo": "magento-2",
                 "stars": 28,
@@ -3431,10 +3431,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-11-06T07:25:01Z",
-            "open_issues": 2557,
+            "open_issues": 2567,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12223,
+            "stars": 12224,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -3607,7 +3607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:51:01.260Z",
+    "last_updated": "2026-11-08T00:26:03.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
