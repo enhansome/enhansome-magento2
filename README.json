@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 533205,
+            "stars": 533880,
             "topics": [
               "awesome",
               "awesome-list",
@@ -216,11 +216,11 @@
             "id": 80669528,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T15:01:15Z",
+            "last_commit": "2026-11-08T06:19:37Z",
             "open_issues": 179,
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3946,
+            "stars": 3947,
             "topics": [
               "backdrop",
               "craftcms",
@@ -3431,7 +3431,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-11-06T07:25:01Z",
-            "open_issues": 2567,
+            "open_issues": 2569,
             "owner": "magento",
             "repo": "magento2",
             "stars": 12224,
@@ -3536,7 +3536,7 @@
             "open_issues": 78,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32787,
+            "stars": 32790,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -3607,7 +3607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:26:03.916Z",
+    "last_updated": "2026-11-09T00:45:27.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
